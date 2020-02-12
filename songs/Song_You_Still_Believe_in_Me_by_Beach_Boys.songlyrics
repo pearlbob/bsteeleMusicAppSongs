@@ -1,0 +1,57 @@
+{ "file": "You Still Believe in Me.songlyrics", "lastModifiedDate": 1528832018884, "song": 
+{
+"title": "You Still Believe in Me",
+"artist": "Beach Boys",
+"user": "Unknown",
+"lastModifiedDate": 1528832018884,
+"copyright": "Brian Wilson & Tony Asher",
+"key": "G",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"G D G C",
+	"V:",
+	"G D G D x4",
+	"C G7 C G7",
+	"E7 E7 E7 E7",
+	"Am7 Am7 Am7 Am7",
+	"Em Em Bm Bm",
+	"Am7 Am7 Am7 Am7",
+	"C:",
+	"G G D D x2",
+	"G G C D",
+	"G G G G"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V:  I know perfectly well",
+	"I'm not where I should be",
+	"I've been very aware",
+	"You've been patient with me",
+	"Every time we break up",
+	"You bring back your love to me",
+	"And after all I've done to you",
+	"How can it be",
+	"You still believe in me",
+	"",
+	"V:  I try hard to be more",
+	"What you want me to be",
+	"But I can't help how I act",
+	"When you're not here with me",
+	"I try hard to be strong",
+	"But sometimes I fail myself",
+	"And after all I've promised you",
+	"So faithfully",
+	"You still believe in me",
+	"",
+	"C: I wanna cry-y-y-y-y-y-y",
+	"C: Ah-ah ah-ah-ah ah-ah ah-ah-ah ah-ah ah-ah-ah ah",
+	"C: Ah-ah ah-ah-ah ah-ah ah-ah-ah ah-ah ah-ah-ah ah",
+	""
+    ]
+}
+}

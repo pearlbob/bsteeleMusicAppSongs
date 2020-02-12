@@ -1,0 +1,63 @@
+{ "file": "Way You Look Tonight, The.songlyrics", "lastModifiedDate": 1536084293176, "song": 
+{
+"title": "Way You Look Tonight, The",
+"artist": "Frank Sinatra",
+"user": "Unknown",
+"lastModifiedDate": 1536084293176,
+"copyright": "Universal Music Publishing Group",
+"key": "C",
+"defaultBpm": 80,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I:",
+	"C Am Dm G x2",
+	"V:",
+	"C Am Dm G",
+	"Em A7 Dm G",
+	"C C7 Dm G",
+	"C Am Dm G",
+	"C:",
+	"D# Cm Fm Bb x3",
+	"D# Cm Dm G",
+	"O:",
+	"C"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V: Some day, when I'm awfully low,",
+	"When the world is cold,",
+	"I will feel a glow just thinking of you",
+	"And the way you look tonight.",
+	"",
+	"V: You're lovely, with your smile so warm",
+	"And your cheeks so soft,",
+	"There is nothing for me but to love you,",
+	"And the way you look tonight.",
+	"",
+	"C: With each word your tenderness grows,",
+	"Tearing my fears apart",
+	"And that laugh that wrinkles your nose,",
+	"Touches my foolish heart.",
+	"",
+	"V: (instrumental)",
+	"",
+	"C: With each word your tenderness grows,",
+	"Tearing my fears apart",
+	"And that laugh that wrinkles your nose,",
+	"Touches my foolish heart.",
+	"",
+	"V: Yes you're lovely, never, ever change",
+	"Keep that breathless charm.",
+	"Won't you please arrange it?",
+	"'Cause I love you",
+	"Just the way you look tonight,",
+	"the way you look to-",
+	"",
+	"O: -night.",
+	""
+    ]
+}
+}

@@ -1,0 +1,59 @@
+{ "file": "For No One.songlyrics", "lastModifiedDate": 1545275393847, "song": 
+{
+"title": "For No One",
+"artist": "Emmy Lou Harris (orig. Beatles)",
+"user": "Unknown",
+"lastModifiedDate": 1545275393847,
+"copyright": "Sony/ATV",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"C Em Am C",
+	"F Bb C C",
+	"C:",
+	"Dm A7 Dm A7 x2",
+	"Dm Gsus4G"
+    ],
+"lyrics": 
+    [
+	"V: Your day breaks, your mind aches",
+	"You find that all the words of kindness linger on",
+	"When she no longer needs you",
+	"",
+	"V: She wakes up, she makes up",
+	"She takes her time and doesn't feel she has to hurry",
+	"She no longer needs you",
+	"",
+	"C: And in her eyes you see nothing",
+	"No sign of love behind the tears",
+	"Cried for no one",
+	"A love that should have lasted years.",
+	"",
+	"V: You want her, you need her",
+	"And yet you don't believe her when she says her love is dead",
+	"You think she needs you",
+	"",
+	"C: And in her eyes you see nothing",
+	"No sign of love behind the tears",
+	"Cried for no one",
+	"A love that should have lasted years.",
+	"",
+	"V: You stay home, she goes out",
+	"She says that long ago she knew someone but now he's gone",
+	"She doesn't need him",
+	"",
+	"V: Your day breaks, your mind aches",
+	"There will be times when all the things she said will fill your head",
+	"You won't forget her",
+	"",
+	"C: And in her eyes you see nothing",
+	"No sign of love behind the tears",
+	"Cried for no one",
+	"A love that should have lasted years.",
+	""
+    ]
+}
+}

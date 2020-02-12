@@ -1,0 +1,55 @@
+{ "file": "Crazy Mama.songlyrics", "lastModifiedDate": 1580105360000, "song": 
+{
+"title": "Crazy Mama",
+"artist": "J.J. Cale",
+"user": "Doug",
+"lastModifiedDate": 1580105360000,
+"copyright": "This Compilation 1997 The Island Def Jam Music Group © 1997 The Island Def Jam Music Group",
+"key": "F#",
+"defaultBpm": 98,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"F# F# F# F# x2",
+	"V:",
+	"F# F# F# F# x4",
+	"Br:",
+	"EB F# EB F# x2",
+	"O:",
+	"EB F# EB F# x2"
+    ],
+"lyrics": 
+    [
+	"i:",
+	"",
+	"v:",
+	"Crazy mama, where you been so long",
+	"Crazy mama, where you been so long",
+	"You been hiding out I know that's true",
+	"Crazy Mama I sure need you",
+	"Crazy mama, where you been so long",
+	" ",
+	"br:",
+	"",
+	"v:",
+	"Standing on a corner looking for you babe",
+	"Standing on a corner looking for you babe",
+	"Lordy, mercy, cannot see",
+	"Crazy mama coming back to me",
+	"Crazy mama where you been so long",
+	"",
+	"br:",
+	"",
+	"v:",
+	"Crazy mama, where you been so long",
+	"Crazy mama, where you been so long",
+	"You been hiding out I know that's true",
+	"Crazy Mama I sure need you",
+	"Crazy mama, where you been so long",
+	"",
+	"o:",
+	""
+    ]
+}
+}

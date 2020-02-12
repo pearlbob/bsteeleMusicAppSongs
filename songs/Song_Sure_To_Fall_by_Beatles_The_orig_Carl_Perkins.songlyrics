@@ -1,0 +1,54 @@
+{ "file": "Sure To Fall.songlyrics", "lastModifiedDate": 1564018592507, "song": 
+{
+"title": "Sure To Fall",
+"artist": "Beatles, The (orig. Carl Perkins)",
+"user": "Unknown",
+"lastModifiedDate": 1564018592507,
+"copyright": "Philtac Music Company",
+"key": "Ab",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"A A D D",
+	"A A E E",
+	"V1:",
+	"A A D D",
+	"A E A A",
+	"C:",
+	"D D D A",
+	"B B E E7",
+	"O:",
+	"A E AD A"
+    ],
+"lyrics": 
+    [
+	"V: I'm sure to fall, fall in love,",
+	"I'm sure to fall in love with you.",
+	"",
+	"V1: You are so sweet and so near.",
+	"I'm sure to fall in love with you.",
+	"",
+	"C: So hold me tight,",
+	"And let tonight be the night.",
+	"Darling, don't ever let me go.",
+	"",
+	"V1: Loving you is the natural thing to do,",
+	"I want you for the rest of my life.",
+	"",
+	"V: (instrumental)",
+	"V1: (instrumental)",
+	"",
+	"C: So hold me tight,",
+	"Let tonight be the night.",
+	"Oh darling, don't ever let me go.",
+	"",
+	"V1: Loving you is the natural thing to do,",
+	"I want you for the rest of my life.",
+	"",
+	"O: I want you for the rest of my life.",
+	""
+    ]
+}
+}

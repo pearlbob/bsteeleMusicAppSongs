@@ -1,0 +1,63 @@
+{ "file": "Walk Away Renee.songlyrics", "lastModifiedDate": 1569464404613, "song": 
+{
+"title": "Walk Away Renee",
+"artist": "Left Banke, The",
+"user": "Unknown",
+"lastModifiedDate": 1569464404613,
+"copyright": "Sony/ATV Music Publishing LLC",
+"key": "A",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"DDAE A A",
+	"V:",
+	"A E Em Bm",
+	"Dm A D B7",
+	"C:",
+	"AE F#m D AE",
+	"AE F#m D C#m",
+	"DBm A A",
+	"Br:",
+	"F#m Faug A B",
+	"D A D B"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V: And when I see the sign that points one way",
+	"The lot we used to pass by every day",
+	"",
+	"C: Just walk away Renee",
+	"You won't see me follow you back home",
+	"The empty sidewalks on my block are not the same",
+	"You're not to blame",
+	"",
+	"V: From deep inside the tears that I'm forced to cry",
+	"From deep inside the pain that I chose to hide",
+	"",
+	"C: Just walk away Renee",
+	"You won't see me follow you back home",
+	"Now as the rain beats down upon my weary eyes",
+	"For me it cries",
+	"",
+	"Br: (instrumental)",
+	"",
+	"C: Just walk away Renee",
+	"You won't see me follow you back home",
+	"Now as the rain beats down upon my weary eyes",
+	"For me it cries",
+	"",
+	"V: Your name and mine inside a heart upon a wall",
+	"Still finds a way to haunt me, though they're so small",
+	"",
+	"C: Just walk away Renee",
+	"You won't see me follow you back home",
+	"The empty sidewalks on my block are not the same",
+	"You're not to blame",
+	""
+    ]
+}
+}

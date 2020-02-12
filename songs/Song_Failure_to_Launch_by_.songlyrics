@@ -1,0 +1,51 @@
+{ "file": "", "lastModifiedDate": 0, "song": 
+{
+"title": "Failure to Launch",
+"artist": "???",
+"user": "Unknown",
+"lastModifiedDate": 0,
+"copyright": "???",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"G C Am D",
+	"Am D G Em",
+	"Am D G",
+	"C D G Em",
+	"C D Em A",
+	"Am D"
+    ],
+"lyrics": 
+    [
+	"I thought I'd try to sit down and write you that song",
+	"and let you in on what I've been thinking",
+	"I started in, but got stuck again",
+	"knowin' that it'd turn out wrong",
+	"I pushed on through, forcing the issue",
+	"hoping you would forgive my mistakes",
+	"with every song that ever turned out wrong",
+	"coming back to haunt the page",
+	"so this spot is reserved, for if I ever find the words",
+	"if there ever comes that day, when I know what I want to say",
+	"but its a mystery, especially to me",
+	"I got partway, still with nothing to say",
+	"with every thought, locked up tight in my head",
+	"with every doubt, that I can't work out",
+	"stopping me from going on",
+	"chorus",
+	"So I gave up, knowing I'd failed you again",
+	"with every thought locked up tight in my head",
+	"for all my sins, I'm alone again",
+	"frustration binding words inside",
+	"chorus",
+	"this spot's still reserved, for if I ever find the words",
+	"if there ever comes that day when I know what I want to say",
+	"but its a mystery, especially to me",
+	"but its a mystery, especially to me",
+	""
+    ]
+}
+}

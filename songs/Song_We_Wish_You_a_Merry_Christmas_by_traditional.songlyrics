@@ -1,0 +1,43 @@
+{ "file": "We Wish You a Merry Christmas.songlyrics", "lastModifiedDate": 1575339972000, "song": 
+{
+"title": "We Wish You a Merry Christmas",
+"artist": "traditional ",
+"user": "Paul",
+"lastModifiedDate": 1575339972000,
+"copyright": "Public Domain (16th century England)",
+"key": "E",
+"defaultBpm": 110,
+"timeSignature": "3/4",
+"chords": 
+    [
+	"V:",
+	"E A F#7 B7",
+	"G#7 C#m A.B7 E",
+	"C:",
+	"E B A B",
+	"E B A.B7 E"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"We wish you a Merry Christmas | x3",
+	"And a Happy New Year!",
+	"ch:",
+	"Good tidings we bring, to you and your kin,",
+	"Good tidings for Christmas and a Happy New Year!",
+	"v:",
+	"Oh, bring us some figgy pudding. | x3",
+	"And a cup of good cheer.",
+	"v:",
+	"We won't go until we get some, | x3",
+	"So bring it right here!",
+	"ch:",
+	"Good tidings we bring, to you and your kin,",
+	"Good tidings for Christmas and a Happy New Year!",
+	"v:",
+	"We wish you a Merry Christmas | x3",
+	"And a Happy New Year!",
+	""
+    ]
+}
+}

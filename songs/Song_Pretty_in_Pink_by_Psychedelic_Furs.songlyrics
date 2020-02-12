@@ -1,0 +1,55 @@
+{ "file": "Pretty in Pink (2).songlyrics", "lastModifiedDate": 1564962962669, "song": 
+{
+"title": "Pretty in Pink",
+"artist": "Psychedelic Furs",
+"user": "Unknown",
+"lastModifiedDate": 1564962962669,
+"copyright": "John Ashton, Tim Butler, Richard Butler, Vince Ely, Duncan Kilburn, Roger Morris",
+"key": "D",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"D D.BmA G A x2",
+	"V:",
+	"D C G A x4",
+	"C:",
+	"Em F#m G F#m x2",
+	"B:",
+	"D D.BmA G A x4",
+	"O:",
+	"D D.BmA G A x8"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V: Caroline laughs, and it's raining all day. She loves to be one of the girls",
+	"She lives in the place in the side of our lives where nothing is ever put straight",
+	"She turns herself 'round and she smiles and she says, \"This is it, that's the end of the joke\"",
+	"and loses herself in her dreaming and sleep, and her lovers walk through in their coats, she's",
+	"C: Pretty in pink, isn't she?",
+	"Pretty in pink, isn't she?",
+	"V: All of her lovers all talk of her notes and the flowers that they never sent",
+	"and wasn't she eeeeeeeasy. Isn't she pretty in pink?",
+	"The one who insists he was first in the line is the last to remember her name",
+	"He's walking around in this dress that she wore. She's gone, but the joke's the same",
+	"C: Pretty in pink, isn't she?",
+	"Pretty in pink, isn't she?",
+	"B: (saxophones)",
+	"V: Caroline talks to you softly sometimes, she says, \"I love you\" and \"Too much\"",
+	"She doesn't have anything you want to steal, welllllll... nothing you can touch",
+	"Sheeeeee waves. Unbuttons your shirt...",
+	"The traffic is waiting outside. She hands you this coat. She give you her clothes. These cars collide",
+	"C: Pretty in pink, isn't she?",
+	"Pretty in pink, isn't she?",
+	"O:",
+	"Caroline's on the table screaming. Confidence is in the sea, and all their favorite rags are worn, and other kinds of uniform",
+	"They kid you you're really free, and you know what you want to be - Case of individuality. Until tomorrow",
+	"And everything you are you'll see, in pure shiny buttons",
+	"They put you in this gear. The driveways broken. Doorbell sings in chimes, it plays \"anything goes\"",
+	"Bells toll in rhyme",
+	""
+    ]
+}
+}

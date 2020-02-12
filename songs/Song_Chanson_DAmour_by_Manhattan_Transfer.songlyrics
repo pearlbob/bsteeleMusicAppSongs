@@ -1,0 +1,54 @@
+{ "file": "Chanson D'Amour.songlyrics", "lastModifiedDate": 1534385051657, "song": 
+{
+"title": "Chanson D'Amour",
+"artist": "Manhattan Transfer",
+"user": "Unknown",
+"lastModifiedDate": 1534385051657,
+"copyright": "Warner/Chappell Music, Inc, Universal Music Publishing Group",
+"key": "F",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"FDm GmC",
+	"V:",
+	"F Dm Gm Gm",
+	"C Caug F A7",
+	"D D7 Gm Gm",
+	"C Caug F BbC",
+	"V1:",
+	"F Dm Gm Gm",
+	"C Caug F A7",
+	"D D7 Gm G",
+	"C C F F",
+	"O:",
+	"C C F F"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V: Chanson d'amour (ra da da da da)",
+	"Play encore",
+	"Here in my heart (ra da da da da)",
+	"More and more",
+	"",
+	"V1: Chanson d'amour (ra da da da da)",
+	"Je t'adore",
+	"Each time I hear (ra da da da da)",
+	"Chanson, chanson d'amour",
+	"",
+	"V: (instrumental)",
+	"",
+	"V1: Chanson d'amour (ra da da da da)",
+	"Je t'adore",
+	"Each time I hear (ra da da da da)",
+	"Chanson, chanson d'amour",
+	"",
+	"O: Every time I hear",
+	"Chanson, chanson d'amour",
+	""
+    ]
+}
+}

@@ -1,0 +1,60 @@
+{ "file": "Rockin' Around the Christmas Tree.songlyrics", "lastModifiedDate": 1575176292000, "song": 
+{
+"title": "Rockin' Around the Christmas Tree",
+"artist": "Brenda Lee",
+"user": "Paul",
+"lastModifiedDate": 1575176292000,
+"copyright": " © St. Nicholas Music Inc.(written by Johnny Marks, 1958)",
+"key": "G",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"G G D D",
+	"D D D G",
+	"B:",
+	"C C Bm Bm",
+	"Em Em A D",
+	"T:",
+	"D D G G"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Rockin' around the Christmas tree",
+	"At the Christmas party hop",
+	"Mistletoe hung where you can see",
+	"Every couple tries to stop",
+	"v:",
+	"Rockin' around the Christmas tree",
+	"Let the Christmas spirit ring",
+	"Later we'll have some pumpkin pie",
+	"And we'll do some caroling",
+	"b:",
+	"You will get a sentimental feeling",
+	"When you hear",
+	"Voices singing let's be jolly",
+	"Deck the halls with boughs of holly",
+	"v:",
+	"Rockin' around the Christmas tree",
+	"Have a happy holiday",
+	"Everyone dancing merrily",
+	"In the new old fashioned way",
+	"b:",
+	"You will get a sentimental feeling",
+	"When you hear",
+	"Voices singing let's be jolly",
+	"Deck the halls with boughs of holly",
+	"v:",
+	"Rockin' around the Christmas tree",
+	"Have a happy holiday",
+	"Everyone dancing merrily",
+	"In the new old fashioned way",
+	"",
+	"t:",
+	"In the new old fashioned way",
+	""
+    ]
+}
+}

@@ -1,0 +1,53 @@
+{ "file": "", "lastModifiedDate": 0, "song": 
+{
+"title": "Long Train Running",
+"artist": "Doobie Brothers, The",
+"user": "Unknown",
+"lastModifiedDate": 0,
+"copyright": "Warner/Chappell Music, Inc",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"Dm Dm Dm Dm",
+	"Gm Gm Dm Dm",
+	"Bb A Dm Dm",
+	"Bb A Gm"
+    ],
+"lyrics": 
+    [
+	"Down around the corner",
+	"A half a mile from here",
+	"You see them old trains runnin'",
+	"And you watch them disappear",
+	"Without love",
+	"Where would you be now",
+	"Without love",
+	"You know I saw Miss Lucy",
+	"Down along the tracks",
+	"She lost her home and her family",
+	"And she won't be comin' back",
+	"Without love",
+	"Where would you be now",
+	"Without love",
+	"Well the Illinois Central",
+	"And the Southern Central Freight",
+	"Gotta keep on pushin' Mama",
+	"'Cause you know they're runnin' late",
+	"Without love",
+	"Where would you be now - now, now, now",
+	"Without love",
+	"Where pistons keep on churnin'",
+	"And the wheels go 'round and 'round",
+	"And the steel rails are cold and hard",
+	"For the miles that they go down",
+	"Without love",
+	"Where would you be right now",
+	"Without love",
+	"Where would you be now",
+	""
+    ]
+}
+}

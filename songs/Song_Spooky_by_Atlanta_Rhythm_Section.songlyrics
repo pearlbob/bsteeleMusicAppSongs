@@ -1,0 +1,51 @@
+{ "file": "Spooky.songlyrics", "lastModifiedDate": 1543698011476, "song": 
+{
+"title": "Spooky",
+"artist": "Atlanta Rhythm Section",
+"user": "Unknown",
+"lastModifiedDate": 1543698011476,
+"copyright": "© Sony/ATV Music Publishing LLC, The Bicycle Music Company",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Am D Am Bm x2",
+	"V:",
+	"Am D Am7 D7 x2",
+	"Am Bm7 Bm D7",
+	"Am D Am7 D7",
+	"Br:",
+	"Am7 Bm7 Am7 Bm7"
+    ],
+"lyrics": 
+    [
+	"",
+	"i:",
+	"v:In the cool of the evenin' when ev'rything is gettin' kind of groovy",
+	"I call you up and ask you if you'd like to go with me and see a movie",
+	"First you say \"no\", you've got some plans for the night",
+	"And then you stop, and say, \"all right\"",
+	"Love is kinda crazy with a spooky little girl like you",
+	"",
+	"v:You always keep me guessin', I never seem to know what you are thinkin'",
+	"And if some fellow looks at you, it's for sure your little eye will be a-winkin'",
+	"I get confused, 'cause I don't know where I stand",
+	"And then you smile, and hold my hand",
+	"Love is kinda crazy with a spooky little girl like you",
+	"",
+	"br:Spooky spooky yeah, yeah",
+	"",
+	"v:If you decide someday to stop this little game that you are playin'",
+	"I'm gonna tell you all that my heart's been a-dyin' to be sayin'",
+	"Just like a ghost, you've been a-hauntin' my dreams",
+	"So I'll propose on Halloween",
+	"Baby, love is kinda crazy with a spooky little girl like you",
+	"",
+	"br:Spooky, yeah, yeah",
+	" ",
+	""
+    ]
+}
+}

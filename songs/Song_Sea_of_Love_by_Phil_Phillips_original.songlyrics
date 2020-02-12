@@ -1,0 +1,44 @@
+{ "file": "Sea of Love.songlyrics", "lastModifiedDate": 1544672330149, "song": 
+{
+"title": "Sea of Love",
+"artist": "Phil Phillips (original)",
+"user": "Unknown",
+"lastModifiedDate": 1544672330149,
+"copyright": "BMG Rights Management, Carlin America Inc",
+"key": "G",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"G B7 C A7",
+	"G CD GC G",
+	"C:",
+	"D C D C",
+	"B7 DD7"
+    ],
+"lyrics": 
+    [
+	"V: Come with me my love",
+	"To the sea, the sea of love",
+	"I wanna tell you how much I love you",
+	"",
+	"V: Do you remember when we met",
+	"That's the day I knew you were my pet",
+	"I wanna tell you how much I love you",
+	"",
+	"C: Come with me to the sea of love",
+	"",
+	"V: Come with me my love",
+	"To the sea, the sea of love",
+	"I wanna tell you how much I love you",
+	"",
+	"C: Come with me to the sea of love",
+	"",
+	"V: Do you remember when we met",
+	"That's the day I knew you were my pet",
+	"I wanna tell you how much I love you",
+	""
+    ]
+}
+}

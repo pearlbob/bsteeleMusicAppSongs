@@ -1,0 +1,44 @@
+{ "file": "It's All In The Game.songlyrics", "lastModifiedDate": 1580162070000, "song": 
+{
+"title": "It's All In The Game",
+"artist": "Tommy Edwards",
+"user": "Doug",
+"lastModifiedDate": 1580162070000,
+"copyright": "Music Sales Corporation",
+"key": "C",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"CAm FG CF C x2",
+	"C Am CD G",
+	"G D G G7.XX",
+	"V1:",
+	"CAm FG CF C x2",
+	"C Am EmAm D",
+	"CAm FG CF C",
+	"O:",
+	"CF CF C"
+    ],
+"lyrics": 
+    [
+	"V: Many a tear has to fall but it's all in the game",
+	"All in the wonderful game that we know as love",
+	"You have words with him and your future's looking dim",
+	"But these things your hearts can rise above",
+	"",
+	"V1: Once in a while he won't call but it's all in the game",
+	"Soon he'll be there at your side with a sweet bouquet",
+	"And he'll kiss your lips and caress your waiting fingertips",
+	"And your hearts will fly away",
+	"",
+	"V1: (instrumental + lyrics below)",
+	"Then he'll kiss your lips and caress your waiting fingertips",
+	"And your hearts will fly away",
+	"",
+	"O: doo-doo, n-doo-doo-doo, n-doo",
+	""
+    ]
+}
+}

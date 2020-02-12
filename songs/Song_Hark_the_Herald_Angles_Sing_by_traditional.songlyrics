@@ -1,0 +1,44 @@
+{ "file": "Hark, the Herald Angels sing.songlyrics", "lastModifiedDate": 1543783024077, "song": 
+{
+"title": "Hark, the Herald Angles Sing",
+"artist": "traditional",
+"user": "Unknown",
+"lastModifiedDate": 1543783024077,
+"copyright": "Public domain (worlds by Charles Wesley (1739); music by Felix Mendelsshon (1840)",
+"key": "C",
+"defaultBpm": 110,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I:",
+	"C C G G",
+	"V:",
+	"C CG",
+	"CF GC",
+	"C AmD",
+	"G DG",
+	"C FG",
+	"C FG",
+	"F Dm",
+	"GC FGC",
+	"F Dm",
+	"GC FGC"
+    ],
+"lyrics": 
+    [
+	"i:",
+	"v:",
+	"'Hark,' the herald angels sing!",
+	"Glory to the new born King!",
+	"Peace on Earth and mercy mild;",
+	"God and sinners reconciled.",
+	"Joyful all ye nations rise!",
+	"Join the triumph of the skies!",
+	"With angelic host proclaim,",
+	"Christ is born in Beth-le-hem.",
+	"'Hark,' the herald angels sing!",
+	"Glory to the new born King!",
+	""
+    ]
+}
+}

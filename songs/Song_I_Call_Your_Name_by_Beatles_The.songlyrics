@@ -1,0 +1,63 @@
+{ "file": "", "lastModifiedDate": 0, "song": 
+{
+"title": "I Call Your Name",
+"artist": "Beatles, The",
+"user": "Unknown",
+"lastModifiedDate": 0,
+"copyright": "Sony/ATV",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"C7 C7 A7 A7",
+	"D7 D7 G7 G7",
+	"V1:",
+	"C7 C7 A7 A7",
+	"F Fm C7 C7",
+	"C:",
+	"F7 F7 Am7 Am7",
+	"D7 D7 G#7 G7",
+	"O:",
+	"C7 F C7 F",
+	"C7 C7"
+    ],
+"lyrics": 
+    [
+	"V: I call your name ",
+	"but you're not there",
+	"Was I to blame for being unfair",
+	"",
+	"V1: Oh, I can't sleep at night",
+	"Since you've been gone",
+	"I never weep at night",
+	"I can't go on",
+	"",
+	"C: Don't you know I can't take it",
+	"I don't know who can",
+	"I'm not going to make it",
+	"I'm not that kind of man",
+	"",
+	"V1: Oh, I can't sleep at night",
+	"But just the same",
+	"I never weep at night",
+	"I call your name",
+	"",
+	"C: Don't you know I can't take it",
+	"I don't know who can",
+	"I'm not going to make it",
+	"I'm not that kind of man.",
+	"",
+	"V1: Oh, I can't sleep at night",
+	"But just the same",
+	"I never weep at night",
+	"I call your name",
+	"",
+	"O: I call your name",
+	"I call your name",
+	"I call your name",
+	""
+    ]
+}
+}

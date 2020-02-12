@@ -1,0 +1,61 @@
+{ "file": "Take Me in Your Arms .songlyrics", "lastModifiedDate": 1574654301516, "song": 
+{
+"title": "Take Me in Your Arms",
+"artist": "Doobie Brothers",
+"user": "Unknown",
+"lastModifiedDate": 1574654301516,
+"copyright": "1973",
+"key": "A",
+"defaultBpm": 90,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Em7 Bm7 Em7 F#",
+	"V1:",
+	"A A A A x2",
+	"V2:",
+	"Em7 Bm7 Em7 F#",
+	"A A A A x2",
+	"C:",
+	"AD A AD A",
+	"B:",
+	"Em7 Bm7 x4",
+	"Em7 F#"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V1: I know you're leavin', leavin' me behind",
+	"I'm seein' you darlin' for the very last time",
+	"Show a little tenderness mama before you go",
+	"Please let me feel your embrace once more",
+	"C:Take me in your arms, rock me, rock me a little while",
+	"Won't you darlin', rock me, rock me a little while",
+	"V2:We all must feel heartache sometimes",
+	"Right now, right now I'm feelin' mine",
+	"I've tried my best to be strong, but I'm not able",
+	"I'm like a helpless child left in a cradle",
+	"Before you leave me, leave me behind ",
+	"let me feel happy one more time",
+	"C:Take me in your arms, rock me, rock me a little while",
+	"Won't you darlin', rock me, rock me a little while",
+	"V2: I'm losin' you and my happiness",
+	"My life is so dark I must confess",
+	"I'll never, never see your smiling face no more",
+	"I'll never, never hear your knock upon my door",
+	"Before you leave me mama leave me far behind",
+	"Let me feel happy one more time",
+	"C:Take me in your arms, rock me, rock me a little while",
+	"Won't you darlin', rock me, rock me a little while",
+	"B:",
+	"V1:I beg you baby, oh baby please now",
+	"Come on baby, can't you see I'm on my knees now",
+	"Come on baby, let me just be",
+	"Come on baby, oh baby please please please",
+	"C:Take me in your arms, rock me, rock me a little while",
+	"Won't you darlin', rock me, rock me a little while",
+	""
+    ]
+}
+}

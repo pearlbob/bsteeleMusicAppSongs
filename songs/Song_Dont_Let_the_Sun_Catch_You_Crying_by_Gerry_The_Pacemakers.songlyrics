@@ -1,0 +1,60 @@
+{ "file": "Don't Let the Sun Catch You Crying.songlyrics", "lastModifiedDate": 1579998408000, "song": 
+{
+"title": "Don't Let the Sun Catch You Crying",
+"artist": "Gerry &The Pacemakers",
+"user": "Doug",
+"lastModifiedDate": 1579998408000,
+"copyright": " Universal Music Publishing Group",
+"key": "C",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Cmaj7 F Cmaj7 F",
+	"V:",
+	"Cmaj7 F Cmaj7 F",
+	"Cmaj7 F G G",
+	"Am Em Am Em",
+	"F G Cmaj7 F",
+	"Cmaj7 F",
+	"C:",
+	"G G Am Am",
+	"F F G G",
+	"O:",
+	"Cmaj7 F Cmaj7 F",
+	"Cmaj7 F G G",
+	"Am Em Am Em",
+	"F G Cmaj7 F",
+	"Cmaj7 F Cmaj7 Cmaj7"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V: Don't let the sun catch you cryin'",
+	"The night's the time for all your tears",
+	"Your heart may be broken tonight",
+	"But tomorrow in the morning light",
+	"Don't let the sun catch you cryin'",
+	"",
+	"V: The night-time shadows disappear",
+	"And with them go all your tears",
+	"For the morning will bring joy",
+	"For every girl and boy",
+	"So don't let the sun catch you cryin'",
+	"",
+	"C: We know that cryin's not a bad thing",
+	"But stop your cryin' when the birds sing",
+	"",
+	"O: It may be hard to discover",
+	"That you've been left for another",
+	"But don't forget that love's a game",
+	"And it can always come again",
+	"Oh don't let the sun catch you cryin'",
+	"Don't let the sun catch you cryin', oh no ",
+	"Oh, oh, oh",
+	""
+    ]
+}
+}

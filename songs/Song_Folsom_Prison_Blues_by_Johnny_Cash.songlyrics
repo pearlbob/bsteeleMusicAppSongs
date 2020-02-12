@@ -1,0 +1,46 @@
+{ "file": "Folsom Prison Blues.songlyrics", "lastModifiedDate": 1536806327502, "song": 
+{
+"title": "Folsom Prison Blues",
+"artist": "Johnny Cash",
+"user": "Unknown",
+"lastModifiedDate": 1536806327502,
+"copyright": "BMG Rights Management US, LLC",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"E E E E",
+	"A A E E",
+	"B B E E"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"I hear the train a comin'",
+	"It's rolling round the bend",
+	"And I ain't seen the sunshine since I don't know when,",
+	"I'm stuck in Folsom prison, and time keeps draggin' on",
+	"But that train keeps a rollin' on down to San Antone..",
+	"v:",
+	"When I was just a baby my mama told me. Son,",
+	"Always be a good boy, don't ever play with guns.",
+	"But I shot a man in Reno just to watch him die",
+	"When I hear that whistle blowing, I hang my head and cry..",
+	"v:",
+	"I bet there's rich folks eating in a fancy dining car",
+	"They're probably drinkin' coffee and smoking big cigars.",
+	"Well I know I had it coming, I know I can't be free",
+	"But those people keep a movin'",
+	"And that's what tortures me...",
+	"v:",
+	"Well if they freed me from this prison,",
+	"If that railroad train was mine",
+	"I bet I'd move it on a little farther down the line",
+	"Far from Folsom prison, that's where I want to stay",
+	"And I'd let that lonesome whistle blow my blues away.....",
+	""
+    ]
+}
+}

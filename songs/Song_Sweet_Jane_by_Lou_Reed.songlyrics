@@ -1,0 +1,46 @@
+{ "file": "", "lastModifiedDate": 0, "song": 
+{
+"title": "Sweet Jane",
+"artist": "Lou Reed",
+"user": "Unknown",
+"lastModifiedDate": 0,
+"copyright": "Sony/ATV Music Publishing LLC",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"D A G A"
+    ],
+"lyrics": 
+    [
+	"Anyone who's ever had a heart",
+	"Wouldn't turn around and break it",
+	"and anyone who's ever played a part",
+	"Wouldn't turn around and hate it",
+	"Sweet Jane, sweet Jane",
+	"Sweet, sweet Jane",
+	"You're waiting for Jimmy down in the alley",
+	"Waiting there for him to come back home",
+	"Waiting down on the corner",
+	"and thinking of ways to get back home",
+	"Sweet Jane, sweet Jane",
+	"Sweet, sweet Jane",
+	"Anyone who's ever had a dream",
+	"Anyone who's ever played a part",
+	"Anyone who's ever been lonely",
+	"and anyone who's ever split apart",
+	"Sweet Jane, sweet Jane",
+	"Sweet, sweet Jane",
+	"Heavenly widened roses",
+	"seem to whisper to me when you smile",
+	"Heavenly widened roses",
+	"seem to whisper to me when you smile",
+	"La la la la, la la la, [etc...]",
+	"Sweet Jane",
+	"Sweet, sweet Jane",
+	""
+    ]
+}
+}

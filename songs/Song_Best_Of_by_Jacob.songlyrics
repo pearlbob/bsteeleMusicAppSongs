@@ -1,0 +1,31 @@
+{ "file": "Best Of.songlyrics", "lastModifiedDate": 1528255519077, "song": 
+{
+"title": "Best Of",
+"artist": "Jacob",
+"user": "Unknown",
+"lastModifiedDate": 1528255519077,
+"copyright": "Jacob",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"Eb Eb Ab Ab",
+	"Bb Bb"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"I can't see how anyone could think that they're",
+	"best of, that they're best of",
+	"living in a powderkeg dream to cope",
+	"",
+	"you're a starling, darling, socialite",
+	"with an insatiable appetite",
+	"you're iconoclast will last for time",
+	"but only in your mind",
+	""
+    ]
+}
+}

@@ -1,0 +1,45 @@
+{ "file": "Learning to Fly.songlyrics", "lastModifiedDate": 1580162970000, "song": 
+{
+"title": "Learning to Fly",
+"artist": "Tom Petty",
+"user": "Doug",
+"lastModifiedDate": 1580162970000,
+"copyright": "Petty",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"F FC C C",
+	"Am AmG G G",
+	"C:",
+	"F C Am G x4"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Well I started out down a dirty road",
+	"Started out all alone",
+	"And the sun went down as I crossed the hill",
+	"And the town lit up, the world got still",
+	"c:",
+	"I'm learning to fly, but I ain't got wings",
+	"Coming down is the hardest thing",
+	"v:",
+	"Well the good ol' days may not return",
+	"And the rocks might melt and the sea may burn",
+	"v:",
+	"Well some say life will beat you down",
+	"Break your heart, steal your crown",
+	"So I've started out for God knows where",
+	"I guess I'll know when I get there",
+	"c:",
+	"I'm learning to fly, around the clouds",
+	"But what goes up must come down",
+	"",
+	"[Chorus]???",
+	""
+    ]
+}
+}

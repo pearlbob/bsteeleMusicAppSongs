@@ -1,0 +1,58 @@
+{ "file": "Lucille.songlyrics", "lastModifiedDate": 1534969414794, "song": 
+{
+"title": "Lucille",
+"artist": "Little Richard",
+"user": "Unknown",
+"lastModifiedDate": 1534969414794,
+"copyright": "Sony/ATV Music Publishing LLC",
+"key": "C",
+"defaultBpm": 120,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"C C C G7",
+	"V:",
+	"C C C C",
+	"F F C C",
+	"G F C G7",
+	"C:",
+	"C C C7 C7",
+	"F F C C",
+	"G F C G7",
+	"O:",
+	"C"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V: Lucille, you won't do your sister's will?",
+	"Oh, Lucille, you won't do your sister's will?",
+	"You ran off and married, but I love you still",
+	"",
+	"V: Lucille, please, come back where you belong",
+	"Lucille, please, come back where you belong",
+	"I been good to you, baby, please, don't leave me alone",
+	"",
+	"C: I woke up this morning, Lucille was not in sight",
+	"I asked my friends about her but all their lips were tight",
+	"Lucille, please, come back where you belong",
+	"I been good to you, baby, please, don't leave me alone, (whoaa)",
+	"",
+	"V: (instrumental)",
+	"",
+	"C: I woke up this morning, Lucille was not in sight",
+	"I asked my friends about her but all their lips were tight",
+	"Lucille, please, come back where you belong",
+	"I been good to you, baby, please, don't leave me alone",
+	"",
+	"V: Lucille, baby, satisfy my heart",
+	"Lucille, baby, satisfy my heart",
+	"I played for it, baby, and gave you such a wonderful start",
+	"",
+	"O: (instrumental)",
+	""
+    ]
+}
+}

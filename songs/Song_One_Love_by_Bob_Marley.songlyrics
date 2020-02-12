@@ -1,0 +1,62 @@
+{ "file": "One Love.songlyrics", "lastModifiedDate": 1555553051691, "song": 
+{
+"title": "One Love",
+"artist": "Bob Marley",
+"user": "Unknown",
+"lastModifiedDate": 1555553051691,
+"copyright": "Songwriters: MARLEY BOB One Love lyrics © Warner-tamerlane Publishing Corp., Blue Mountain Music Ltd., Mijac Music, Odnil Music Ltd., Fifty Six Hope Road Music Ltd., Solomonic Music Ltd., Blackwell Fuller Music Publishing LLC, Warner-tamerlane Pub Corp., Fifty Six Hope Road Music Limited, COPYRIGHT CONTROL (NON-HFA), BMG VM MUSIC LTD, FARRELL MUSIC LTD, SONGS OF PEER LTD OBO CAYMAN MUSIC, FIFTY SIX HOPE ROAD MUSIC LTD, CAYMAN MUSIC INC",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"A F#m D A x4",
+	"C:",
+	"A A E E |",
+	"D A E A | x2",
+	"O:",
+	"D A E A x4"
+    ],
+"lyrics": 
+    [
+	"ch:",
+	"One Love! One Heart!",
+	"Let's get together and feel all right",
+	"Hear the children cryin' (One Love!)",
+	"Hear the children cryin' (One Heart!)",
+	"Sayin': give thanks and praise to the Lord and I will feel all right",
+	"Sayin': let's get together and feel all right. Wo wo-wo wo-wo!",
+	"v:",
+	"Let them all pass all their dirty remarks (One Love!)",
+	"There is one question I'd really love to ask (One Heart!)",
+	"Is there a place for the hopeless sinner",
+	"Who has hurt all mankind just to save his own beliefs?",
+	"ch:",
+	"One Love! What about the one heart? One Heart!",
+	"What about - ? Let's get together and feel all right",
+	"As it was in the beginning (One Love!)",
+	"So shall it be in the end (One Heart!)",
+	"All right!",
+	"Give thanks and praise to the Lord and I will feel all right",
+	"Let's get together and feel all right",
+	"One more thing!",
+	"v:",
+	"Let's get together to fight this Holy Armageddon (One Love!)",
+	"So when the Man comes there will be no, no doom (One Song!)",
+	"Have pity on those whose chances grows thinner",
+	"There ain't no hiding place from the Father of Creation",
+	"ch:",
+	"Sayin': \"One Love\"! What about the One Heart? (One Heart!)",
+	"What about the - ? Let's get together and feel all right",
+	"I'm pleadin' to mankind! (One Love!)",
+	"Oh, Lord! (One Heart) Wo-ooh!",
+	"o:",
+	"Give thanks and praise to the Lord and I will feel all right",
+	"Let's get together and feel all right",
+	"Give thanks and praise to the Lord and I will feel all right",
+	"Let's get together and feel all right",
+	""
+    ]
+}
+}

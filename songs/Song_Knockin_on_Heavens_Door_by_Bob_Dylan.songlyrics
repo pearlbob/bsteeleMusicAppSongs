@@ -1,0 +1,44 @@
+{ "file": "", "lastModifiedDate": 0, "song": 
+{
+"title": "Knockin' on Heaven's Door",
+"artist": "Bob Dylan",
+"user": "Unknown",
+"lastModifiedDate": 0,
+"copyright": "Ram's Horn Music",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"G D Am Am |",
+	"G D C C | x2",
+	"C:",
+	"G D Am Am |",
+	"G D C C | x2"
+    ],
+"lyrics": 
+    [
+	"v:Mama, take this badge off of me",
+	"I can't use it anymore",
+	"It's gettin' dark, too dark to see",
+	"I feel I'm knockin' on heaven's door",
+	"ch:",
+	"Knock, knock, knockin' on heaven's door",
+	"Knock, knock, knockin' on heaven's door",
+	"Knock, knock, knockin' on heaven's door",
+	"Knock, knock, knockin' on heaven's door",
+	"v:",
+	"Mama, put my guns in the ground",
+	"I can't shoot them anymore",
+	"That long black cloud is comin' down",
+	"I feel I'm knockin' on heaven's door",
+	"ch:",
+	"Knock, knock, knockin' on heaven's door",
+	"Knock, knock, knockin' on heaven's door",
+	"Knock, knock, knockin' on heaven's door",
+	"Knock, knock, knockin' on heaven's door",
+	""
+    ]
+}
+}

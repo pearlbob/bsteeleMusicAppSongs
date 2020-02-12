@@ -1,0 +1,58 @@
+{ "file": "That's What You Get For Loving Me -- 2_4.songlyrics", "lastModifiedDate": 1580194728000, "song": 
+{
+"title": "That's What You Get For Loving Me -- 2/4",
+"artist": "Peter Paul and Mary",
+"user": "Doug",
+"lastModifiedDate": 1580194728000,
+"copyright": "Warner/Chappell Music, Inc",
+"key": "G",
+"defaultBpm": 90,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I:",
+	"D D G G x2",
+	"V:",
+	"D D7 G G",
+	"D D7 Em D",
+	"G G Em Em",
+	"A A D D7",
+	"G G",
+	"O:",
+	"G G A A",
+	"DDDG D"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V: That's what you get for lovin' me",
+	"That's what you get for lovin' me",
+	"Everything you had is gone, as you can see",
+	"That's what you get for lovin' me",
+	"",
+	"V: I ain't the kind to hang around",
+	"With any new love that I've found",
+	"Movin' is my stock in trade, I'm movin' on",
+	"I won't think of you when I'm gone",
+	"",
+	"V: So don't you shed a tear for me",
+	"I ain't the love you thought I'd be",
+	"I've got a hundred more like you, so don't be blue",
+	"I'll have a thousand 'fore I'm through",
+	"",
+	"V: Now there you go you're cryin' again",
+	"Now there you go you're cryin' again",
+	"But then someday when your poor heart is on the mend",
+	"I just might pass this way again",
+	"",
+	"V: That's what you get for lovin' me",
+	"That's what you get for lovin' me",
+	"Everything you had is gone, as you can see",
+	"That's what you get for lovin' me",
+	"",
+	"O: (instrumental)",
+	""
+    ]
+}
+}

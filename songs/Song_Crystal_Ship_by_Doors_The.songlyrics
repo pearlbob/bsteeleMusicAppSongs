@@ -1,0 +1,60 @@
+{ "file": "Crystal Ship.songlyrics", "lastModifiedDate": 1551056238978, "song": 
+{
+"title": "Crystal Ship",
+"artist": "Doors, The",
+"user": "Unknown",
+"lastModifiedDate": 1551056238978,
+"copyright": "1967 Elektra",
+"key": "D",
+"defaultBpm": 89,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Em D Em D",
+	"EmC GD B7 B7",
+	"V1:",
+	"Em Bm A7 F",
+	"E A BA ED",
+	"ED EC GD B7",
+	"B7",
+	"V2:",
+	"Em Bm A7 F",
+	"E A BA ED",
+	"ED E E",
+	"V3:",
+	"Em Bm A7 F",
+	"E A BA ED",
+	"ED E E"
+    ],
+"lyrics": 
+    [
+	"V1:",
+	"Before you slip into unconsciousness ",
+	"I'd like to have another kiss ",
+	"Another flashing chance at bliss ",
+	"Another kiss, another kiss ",
+	"",
+	"V2:",
+	"The days are bright and filled with pain ",
+	"Enclose me in your gentle rain ",
+	"The time you ran was too insane ",
+	"We'll meet again, we'll meet again ",
+	"",
+	"I: (Instrumental)",
+	"",
+	"V2:",
+	"Oh tell me where your freedom lies ",
+	"The streets are fields that never die ",
+	"Deliver me from reasons why ",
+	"You'd rather cry, I'd rather fly ",
+	"",
+	"V3:",
+	"The crystal ship is being filled ",
+	"A thousand girls, a thousand thrills ",
+	"A million ways to spend your time ",
+	"When we get back, I'll drop a line",
+	""
+    ]
+}
+}

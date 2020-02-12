@@ -1,0 +1,62 @@
+{ "file": "Mother Nature's Son.songlyrics", "lastModifiedDate": 1535595011192, "song": 
+{
+"title": "Mother Nature's Son",
+"artist": "Beatles",
+"user": "Unknown",
+"lastModifiedDate": 1535595011192,
+"copyright": "Sony/ATV",
+"key": "D",
+"defaultBpm": 86,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I:",
+	"D Dm G D x2",
+	"V:",
+	"D G G D",
+	"Bm D E E",
+	"A A7 A A7",
+	"D Dm G D",
+	"C:",
+	"D G D D x2",
+	"Dmaj7 D7 D7 G",
+	"Gm D D",
+	"Br:",
+	"D Dm G D",
+	"O:",
+	"D Dm G D"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V: Born a poor young country boy, Mother Nature's son",
+	"All day long I'm sitting singing songs for everyone",
+	"",
+	"Br: (instrumental)",
+	"",
+	"V: Sit beside a mountain stream, see her waters rise",
+	"Listen to the pretty sound of music as she flies",
+	"",
+	"C: Doo doo doo doo doo doo doo doo doo doo doo",
+	"Doo doo doo doo doo doo doo doo doo",
+	"Doo doo doo",
+	"",
+	"V: Find me in my field of grass, Mother Nature's son",
+	"Swaying daisies sing a lazy song beneath the sun",
+	"",
+	"C: Doo doo doo doo doo doo doo doo doo doo doo",
+	"Doo doo doo doo doo doo doo doo doo",
+	"Doo doo doo doo doo doo",
+	"Yeah yeah yeah",
+	"",
+	"V: Mm mm mm mm mm mm mm",
+	"Mm mm mm, Mm mm mm,",
+	"Mm mm mm mm mm mm mm",
+	"Mm mm mm mm, yeah teah yeah",
+	"",
+	"O: O-o-oh, Mother Nature's son ",
+	""
+    ]
+}
+}

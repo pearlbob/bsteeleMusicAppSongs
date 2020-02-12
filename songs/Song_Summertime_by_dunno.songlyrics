@@ -1,0 +1,46 @@
+{ "file": "Summertime (8).songlyrics", "lastModifiedDate": 1533524078294, "song": 
+{
+"title": "Summertime",
+"artist": "dunno",
+"user": "Unknown",
+"lastModifiedDate": 1533524078294,
+"copyright": "dunno",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "6/8",
+"chords": 
+    [
+	"V:",
+	"BmF# BmF# BmF# BmF#",
+	"Em G F# F#7",
+	"BmF# BmF# BmF# BmF#",
+	"DBm F#7",
+	"BmF# BmF# BmF# BmF#"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Summertime, and the livin' is easy",
+	"Fish are jumpin' and the cotton is high",
+	"Oh, your daddy's rich and your ma is good-lookin'",
+	"So hush little baby, Don't you cry",
+	"v:",
+	"One of these mornings you're gonna rise up singing",
+	"And you'll spread your wings and you'll take to the sky",
+	"But 'til that morning, there ain't nothin' can harm you",
+	"With Daddy and Mammy standin' by",
+	"v: (instrumental break)",
+	"v:",
+	"Summertime, and the livin' is easy",
+	"Fish are jumpin' and the cotton is high",
+	"Oh, your daddy's rich and your ma is good-lookin'",
+	"So hush little baby, Don't you cry",
+	"v:",
+	"One of these mornings you're gonna rise up singing",
+	"And you'll spread your wings and you'll take to the sky",
+	"But 'til that morning, there ain't nothin can harm you",
+	"With Daddy and Mammy standin' by",
+	""
+    ]
+}
+}

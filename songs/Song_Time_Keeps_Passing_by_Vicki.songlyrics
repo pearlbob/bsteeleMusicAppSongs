@@ -1,0 +1,62 @@
+{ "file": "Time Keeps Passing.songlyrics", "lastModifiedDate": 1559884293285, "song": 
+{
+"title": "Time Keeps Passing",
+"artist": "Vicki",
+"user": "Unknown",
+"lastModifiedDate": 1559884293285,
+"copyright": "20xx",
+"key": "E",
+"defaultBpm": 80,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I:",
+	"E A E B",
+	"C#m A C#m B",
+	"V:",
+	"C#m A C#m B",
+	"E A E B",
+	"C#m A C#m B",
+	"E A E B",
+	"C:",
+	"E A C#m B",
+	"E A C#m B"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V:",
+	"How do I write this, what do I say",
+	"There are some things I want to tell you",
+	"the words I want to say, are hard to find, ",
+	"It seems to me, you're always on my mind.",
+	"C:",
+	"Time keeps passing The hours fly by",
+	"Words unspoken It’s time I try",
+	"I:",
+	"V:",
+	"Is it your smile the one that greets me",
+	"Or could it be the gentle, touch of your hand",
+	"I think about you often, but cant determine why",
+	"If I pretend I don’t, it’s one big lie",
+	"C:",
+	"Time keeps passing The hours fly by",
+	"Words unspoken It’s time I try",
+	"I:",
+	"V:",
+	"So here I sit writing you this letter",
+	"Thinking about the words to say",
+	"Since I’ve started, I feel better",
+	"I know now it’s your love I crave",
+	"C:",
+	"Time keeps passing The hours fly by",
+	"Words unspoken It’s time I try",
+	"C:",
+	"Time keeps passing",
+	"The hours fly by",
+	"Words unspoken",
+	"It’s time I try",
+	""
+    ]
+}
+}

@@ -1,0 +1,29 @@
+{ "file": "", "lastModifiedDate": 0, "song": 
+{
+"title": "Song for my Father",
+"artist": "Horace Silver",
+"user": "Unknown",
+"lastModifiedDate": 0,
+"copyright": "tbd",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"Fm7 Fm7 Eb7 Eb7",
+	"Db7 C7 Fm7 Fm7",
+	"C:",
+	"Eb7 Eb7 Fm7 Fm7",
+	"Eb7Db7 C7 Fm7 Fm7"
+    ],
+"lyrics": 
+    [
+	"V;",
+	"V:",
+	"C:",
+	"V:",
+	""
+    ]
+}
+}

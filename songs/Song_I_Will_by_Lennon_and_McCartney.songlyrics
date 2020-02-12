@@ -1,0 +1,57 @@
+{ "file": "I Will (2).songlyrics", "lastModifiedDate": 1551056212637, "song": 
+{
+"title": "I Will",
+"artist": "Lennon and McCartney",
+"user": "Unknown",
+"lastModifiedDate": 1551056212637,
+"copyright": "1968 Northern Songs, Ltd. Admin. by Blackwood Music Inc, Lic. by ATV Music (MACLEN)",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"GEm7 Am7D7 GEm AmG7",
+	"CD7 EmG CD7 GEm7 Am7D7",
+	"V1:",
+	"GEm7 Am7D7 GEm AmG7",
+	"CD7 EmG CD7 GG7",
+	"V2:",
+	"GEm7 Am7D7 GEm7 BmG7",
+	"CD7 EmCmG. CD7 EmCmG.",
+	"CD7 EmCmG. CD7 Eb7 Eb7",
+	"Br:",
+	"CBm Em7 AmD7 GG7",
+	"CAm Em7 A7 D7",
+	"O:",
+	"G GG7 CBm Em7 Am7D7 G"
+    ],
+"lyrics": 
+    [
+	"V:  Who knows how long I've loved you",
+	"    You know I love you still",
+	"    Will I wait a lonely lifetime",
+	"    If you want me to I will",
+	"",
+	"V1:  For if I ever saw you",
+	"    I didn't catch your name",
+	"    But it never really mattered",
+	"    I will always feel the same",
+	"",
+	"Br: Love you forever and forever",
+	"    Love you with all my heart",
+	"    Love you whenever we're together ",
+	"    Love you when we're apart",
+	"",
+	"V2:  And when at last I find you ",
+	"    Your song will fill the air",
+	"    Sing it loud so I can hear you",
+	"    Make it easy to be near you",
+	"    For the things you do endear you to me",
+	"    Ah, you know I will\t\t\t ",
+	"",
+	"O:  I will  La la la La la..\t",
+	""
+    ]
+}
+}

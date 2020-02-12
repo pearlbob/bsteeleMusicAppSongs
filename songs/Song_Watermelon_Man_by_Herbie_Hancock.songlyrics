@@ -1,0 +1,26 @@
+{ "file": "Watermelon Man.songlyrics", "lastModifiedDate": 1554231443908, "song": 
+{
+"title": "Watermelon Man",
+"artist": "Herbie Hancock",
+"user": "Unknown",
+"lastModifiedDate": 1554231443908,
+"copyright": "Hancock Music, BMI",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"F7 F7 F7 F7",
+	"Bb7 Bb7 F7 F7",
+	"C7 Bb7 C7 Bb7",
+	"C7 Bb7 F7 F7"
+    ],
+"lyrics": 
+    [
+	"V:",
+	"None",
+	""
+    ]
+}
+}
