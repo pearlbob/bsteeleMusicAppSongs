@@ -1,0 +1,61 @@
+{ "file": "I Just Fall In Love Again - CORRECTED.songlyrics", "lastModifiedDate": 1535598469382, "song": 
+{
+"title": "I Just Fall In Love Again - CORRECTED",
+"artist": "Anne Murray",
+"user": "Unknown",
+"lastModifiedDate": 1535598469382,
+"copyright": "Universal Music Publishing Group",
+"key": "D",
+"defaultBpm": 80,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I:",
+	"C C D7 D7",
+	"F G7 C G7",
+	"V:",
+	"C C D7 D7",
+	"F G7 C G7",
+	"C C D7 D7",
+	"F D7 F G7",
+	"C:",
+	"Em Am F G7",
+	"C Am D7 G7",
+	"Em Am F E",
+	"Am D7 (hold last chord)",
+	"C FG C C",
+	"O:",
+	"C FG C C",
+	"D7 D7 F G",
+	"C CX"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V: Dreamin', I must be dreamin'",
+	"Or am I really lying here with you?",
+	"Baby, you take me in your arms",
+	"And though I'm wide awake, I know my dream is comin' true",
+	"",
+	"C: And oh I just fall in love again",
+	"Just one touch and then it happens every time",
+	"There I go I, just fall in love again and when I do",
+	"I can't help myself, I fall in love with you",
+	"",
+	"V: Magic, it must be magic",
+	"I hold you and the night just seems to fly",
+	"Easy for you to take me to a star",
+	"Heaven is that moment when I look into your eyes.",
+	"",
+	"C: And oh I just fall in love again",
+	"Just one touch and then it happens every time",
+	"There I go I, just fall in love again and when I do",
+	"I can't help myself, I fall in love with you.",
+	"",
+	"O: Can't help myself, I fall in love with you",
+	"(+ instrumental)",
+	""
+    ]
+}
+}

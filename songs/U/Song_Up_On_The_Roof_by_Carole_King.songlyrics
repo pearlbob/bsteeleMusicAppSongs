@@ -1,0 +1,62 @@
+{ "file": "Up On The Roof (2).songlyrics", "lastModifiedDate": 1539223090842, "song": 
+{
+"title": "Up On The Roof",
+"artist": "Carole King",
+"user": "Unknown",
+"lastModifiedDate": 1539223090842,
+"copyright": "Sony/ATV",
+"key": "G",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"G Em C D",
+	"G G",
+	"G Em C D",
+	"G G",
+	"C:",
+	"C C C C",
+	"G Em C D",
+	"C1:",
+	"C C C C",
+	"G Em C D",
+	"G G",
+	"O:",
+	"G Em G Em",
+	"G"
+    ],
+"lyrics": 
+    [
+	"V: When this old world starts a getting me down",
+	"And people are just too much for me to face",
+	"I'll climb way up to the top of the stairs",
+	"And all my cares just drift right into space",
+	"",
+	"C: On the roof, it's peaceful as can be",
+	"And there the world below don't bother me, ",
+	"Let me tell you now",
+	"",
+	"V: When I come home feeling tired and beat",
+	"I'll go up where the air is fresh and sweet",
+	"I'll get away from the hustling crowd",
+	"And all that rat-race noise down in the street",
+	"",
+	"C1: On the roof, that's the only place I know",
+	"Where you just have to wish to make it so",
+	"Let's go up on the roof",
+	"",
+	"v: (instrumental)",
+	"",
+	"V: I keep on telling you",
+	"That right smack dab in the middle of town",
+	"I found a paradise that's trouble proof",
+	"And if this old world starts a getting you down",
+	"There's room enough for two, up on the roof.",
+	"",
+	"O: Up on the roof",
+	"Up on the roof",
+	""
+    ]
+}
+}

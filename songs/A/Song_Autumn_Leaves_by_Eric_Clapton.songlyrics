@@ -1,0 +1,37 @@
+{ "file": "Autumn Leaves (2).songlyrics", "lastModifiedDate": 1547002661548, "song": 
+{
+"title": "Autumn Leaves",
+"artist": "Eric Clapton",
+"user": "Unknown",
+"lastModifiedDate": 1547002661548,
+"copyright": "℗© 2010 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"Cm7 Cm7 Cm7 Cm7 F7 F7 F7 F7 Bbmaj7 Bbmaj7 Bbmaj7 Bbmaj7 Ebmaj7 Ebmaj7 Ebmaj7 Ebmaj7",
+	"Am7b5 Am7b5 Am7b5 Am7b5 D7 D7 D7 D7 Gm7 Gm7 Gm7 Gm7 G7 G7 G7 G7",
+	"Cm7 Cm7 Cm7 Cm7 F7 F7 F7 F7 Bbmaj7 Bbmaj7 Bbmaj7 Bbmaj7 Ebmaj7 Ebmaj7 Ebmaj7 Ebmaj7",
+	"Am7b5 Am7b5 Am7b5 Am7b5 D7 D7 D7 D7 Gm7 Gm7 Gm7 Gm7 Gm7 Gm7 Gm7 Gm7",
+	"Am7b5 Am7b5 Am7b5 Am7b5 D7 D7 D7 D7 Gm7 Gm7 Gm7 Gm7 Gm7 Gm7 Gm7 Gm7",
+	"Cm7 Cm7 Cm7 Cm7 F7 F7 F7 F7 Bbmaj7 Bbmaj7 Bbmaj7 Bbmaj7 Bbmaj7 Bbmaj7 Bbmaj7 Bbmaj7",
+	"Am7b5 Am7b5 Am7b5 Am7b5 D7 D7 D7 D7 Gm7 Gm7 C7 C7 Fm7 Fm7 Bb7 Bb7",
+	"Am7b5 Am7b5 Am7b5 Am7b5 D7 D7 D7 D7 Gm7 Gm7 Gm7 Gm7 Gm7 Gm7 Gm7 Gm7"
+    ],
+"lyrics": 
+    [
+	"V:",
+	"The falling leaves drift by the window",
+	"The autumn leaves of red and gold",
+	"I see your lips the summer kisses",
+	"The sunburned hands I used to hold",
+	"Since you went away the days grow long",
+	"And soon I'll hear old winter's song",
+	"But I miss you most of all my darling",
+	"When autumn leaves start to fall",
+	""
+    ]
+}
+}

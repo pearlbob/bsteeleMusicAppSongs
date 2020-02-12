@@ -1,0 +1,55 @@
+{ "file": "Love (1).songlyrics", "lastModifiedDate": 1533183219689, "song": 
+{
+"title": "Love",
+"artist": "John Lennon",
+"user": "Unknown",
+"lastModifiedDate": 1533183219689,
+"copyright": "TBD",
+"key": "F#",
+"defaultBpm": 70,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"F#m C#7 F#m D7",
+	"G A7 D F#m",
+	"Em7 A7 D D",
+	"C:",
+	"F G D D",
+	"Em G D A"
+    ],
+"lyrics": 
+    [
+	"V: (instrumental)",
+	"",
+	"V: Love is real, real is love",
+	"Love is feeling, feeling love",
+	"Love is wanting to be loved",
+	"",
+	"V: Love is touch, touch is love",
+	"Love is reaching, reaching love",
+	"Love is asking to be loved",
+	"",
+	"C: Love is you",
+	"You and me",
+	"Love is knowing",
+	"we can be",
+	"",
+	"V: Love is free, free is love",
+	"Love is living, living love",
+	"Love is needing to be loved",
+	"",
+	"C: Love is you",
+	"You and me",
+	"Love is knowing",
+	"we can be",
+	"",
+	"V: Love is free, free is love",
+	"Love is living, living love",
+	"Love is needing to be loved",
+	"",
+	"V: (instrumental)",
+	""
+    ]
+}
+}

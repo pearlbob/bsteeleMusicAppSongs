@@ -1,0 +1,57 @@
+{ "file": "You Always Hurt The One You Love.songlyrics", "lastModifiedDate": 1550168644809, "song": 
+{
+"title": "You Always Hurt The One You Love",
+"artist": "Mills Brothers",
+"user": "Unknown",
+"lastModifiedDate": 1550168644809,
+"copyright": "Sony/ATV",
+"key": "C",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"C Cmaj7 Cmaj7 Am7",
+	"C Em Dm G7",
+	"Dm F Dm7 Dm6",
+	"G Gaug C G7",
+	"C C7 Fmaj7 Dm",
+	"D7 D7 Dm7 G7",
+	"C Cmaj7 Cmaj7 A7",
+	"Dm7 G7 C G7",
+	"O:",
+	"C Cmaj7 Cmaj7 Am7",
+	"C Em Dm G7",
+	"Dm F Dm7 Dm6",
+	"G Gaug C G7",
+	"C C7 Fmaj7 Dm",
+	"D7 D7 Dm7 G7",
+	"C Cmaj7 Cmaj7 A7",
+	"Dm7 G7 C C",
+	"C"
+    ],
+"lyrics": 
+    [
+	"V: You always hurt the one you love",
+	"The one you shouldn't hurt at all",
+	"You always take the sweetest rose",
+	"And crush it till the petals fall",
+	"You always break the kindest heart",
+	"With a hasty word you can't recall, so",
+	"If I broke your heart last night",
+	"It's because I love you most of all",
+	"",
+	"V: (instrumental)",
+	"",
+	"O: You always hurt the one you love",
+	"The one you shouldn't hurt at all",
+	"You always take the sweetest rose",
+	"Crush it, till the petals fall",
+	"You always break the kindest heart",
+	"With a hasty word you can't recall, so",
+	"If I broke your heart last night",
+	"It's because I love you most of all",
+	""
+    ]
+}
+}

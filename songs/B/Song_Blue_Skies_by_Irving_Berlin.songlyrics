@@ -1,0 +1,47 @@
+{ "file": "Blue Skies (1).songlyrics", "lastModifiedDate": 1535594192713, "song": 
+{
+"title": "Blue Skies",
+"artist": "Irving Berlin",
+"user": "Unknown",
+"lastModifiedDate": 1535594192713,
+"copyright": " ℗© 1992 Nonesuch",
+"key": "C",
+"defaultBpm": 140,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"A:",
+	"Am Eaug C D7Fm",
+	"C Gaug C C",
+	"B:",
+	"C FmC FmC FmC",
+	"C FmC FmC G7C"
+    ],
+"lyrics": 
+    [
+	"a:",
+	"Blue skies smiling at me",
+	"Nothing but blue skies do i see",
+	"a:",
+	"Blue birds singing a song",
+	"Nothing but blue skies from now on",
+	"b:",
+	"Never saw the sun shining so bright",
+	"Never saw things going so right",
+	"Noticing the days hurrying by",
+	"When you're in love, my how they fly",
+	"a:",
+	"Blue days, all of them gone",
+	"Nothing but blue skies from now on",
+	"a: (instrumental)",
+	"b: (instrumental)",
+	"a:",
+	"Blue skies smiling at me",
+	"Nothing but blue skies do i see",
+	"a:",
+	"Bluebirds singing a song",
+	"Nothing but blue skies from now on",
+	""
+    ]
+}
+}

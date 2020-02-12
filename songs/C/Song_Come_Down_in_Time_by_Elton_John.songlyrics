@@ -1,0 +1,50 @@
+{ "file": "Come Down in Time (2).songlyrics", "lastModifiedDate": 1564357236858, "song": 
+{
+"title": "Come Down in Time",
+"artist": "Elton John",
+"user": "Unknown",
+"lastModifiedDate": 1564357236858,
+"copyright": "Universal Music Publishing Group",
+"key": "C",
+"defaultBpm": 60,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Am7 D Am7 D",
+	"V:",
+	"Am7D Am7D Cmaj7Bm7 DmE7",
+	"Am7D Am7D Cmaj7Bm DmE",
+	"C:",
+	"FEm DmCmaj7 FEm DmC",
+	"FAb CAm FEb Dm7.FC D",
+	"O:",
+	"Am7D Am7D Cmaj7Bm Am7B"
+    ],
+"lyrics": 
+    [
+	"I: (Instrumental)",
+	"V: In the quiet silent seconds I, I turned off the light switch",
+	"And I, I came down to meet you in the half light the moon left",
+	"While a, a cluster of night jars sang some songs out of tune",
+	"A mantle of bright light shone down from a room",
+	"Ch: Come down in time I still hear her say",
+	"So clear in my ear like it was today",
+	"Come down in time was the message she gave",
+	"Come down in time and I'll meet you halfway",
+	"I: (Instrumental)",
+	"V: Well I don't know if I should have heard her as yet",
+	"But a, a true love like hers is a, a hard love to get",
+	"And I've, I've walked most all the way and I, I ain't heard her call",
+	"And I, I'm getting to thinking if she's coming at all",
+	"Ch: Come down in time I still hear her say",
+	"So clear in my ear like it was today",
+	"Come down in time was the message she gave",
+	"Come down in time and I'll meet you halfway",
+	"I: (Instrumental)",
+	"O: There are women, women, and some hold you tight",
+	"While some leave you counting the stars in the night",
+	""
+    ]
+}
+}

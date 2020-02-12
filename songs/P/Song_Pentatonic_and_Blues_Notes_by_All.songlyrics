@@ -1,0 +1,28 @@
+{ "file": "Pentatonic and Blues Notes (1).songlyrics", "lastModifiedDate": 1530150494535, "song": 
+{
+"title": "Pentatonic and Blues Notes",
+"artist": "All",
+"user": "Unknown",
+"lastModifiedDate": 1530150494535,
+"copyright": "All",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"C D E G A",
+	"C:",
+	"C D Eb E G Ab A"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"this is the pentatonic scale",
+	"",
+	"ch:",
+	"this is the blues scale",
+	""
+    ]
+}
+}

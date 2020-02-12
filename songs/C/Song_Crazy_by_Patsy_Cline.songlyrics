@@ -1,0 +1,57 @@
+{ "file": "Crazy.songlyrics", "lastModifiedDate": 1580105488000, "song": 
+{
+"title": "Crazy",
+"artist": "Patsy Cline",
+"user": "Doug",
+"lastModifiedDate": 1580105488000,
+"copyright": "?",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V1:",
+	"A F# Bm Bm",
+	"E E AE",
+	"BmE",
+	"V2:",
+	"A F# Bm Bm",
+	"E E AD A",
+	"PC:",
+	"D D A A",
+	"B B E E7#5",
+	"C:",
+	"A F#7 Bm Bm",
+	"DC#m BmF#m BmE AD A",
+	"T:",
+	"DC#m BmF#m BmE AD A"
+    ],
+"lyrics": 
+    [
+	"V1:",
+	"Crazy, crazy for feeling so lonely. ",
+	"I'm crazy, crazy for feelin so blue.",
+	"V2:",
+	"I knew, you'd live me as long as you wanted,",
+	"And then some day, you'd leave me for somebody neew.",
+	"PC:",
+	"Worry, why should I let myself worry.",
+	"Wonderin, what in the world did I do",
+	"",
+	"C:",
+	"Crazy, for thinkin that my love could hold you.",
+	"Crazy for tryin",
+	"Crazy for cryin and I'm",
+	"Crazy for lovin you",
+	"V1:",
+	"V2:",
+	"PC:",
+	"C:",
+	"T:",
+	"Crazy for tryin,",
+	"Crazy for cryin, and I'm",
+	"Crazy for lovin you",
+	""
+    ]
+}
+}

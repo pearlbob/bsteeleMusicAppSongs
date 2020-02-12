@@ -1,0 +1,53 @@
+{ "file": "Up a Lazy River Revised.songlyrics", "lastModifiedDate": 1557973556709, "song": 
+{
+"title": "Up a Lazy River Revised",
+"artist": "Mills Brothers (orig. Hoagy Carmichael)",
+"user": "Unknown",
+"lastModifiedDate": 1557973556709,
+"copyright": "Peermusic Publishing",
+"key": "C",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"E7 E7 A7 A7",
+	"D7 D7 G7XXX X",
+	"V1:",
+	"E7 E7 A7 A7",
+	"FCdim CA7 FG CA7",
+	"FG C",
+	"O:",
+	"E7 E7 A7 A7",
+	"FCdim CA7 FG CA7",
+	"FG CA7 F G",
+	"C"
+    ],
+"lyrics": 
+    [
+	"V: Up a lazy river by the old mill run",
+	"The lazy, lazy river in the noon day sun",
+	"Linger in the shade of a kind old tree",
+	"Throw away your troubles",
+	"Dream a dream with me",
+	"",
+	"V1: Up a lazy river where the robin's song",
+	"Awakes the bright new morning",
+	"Where we can move along",
+	"Blue skies up above, everyone's in love",
+	"Up a lazy river, how happy you could be",
+	"Up a lazy river with me",
+	"",
+	"V: (instrumental)",
+	"",
+	"O: Up a lazy river where the robin's song",
+	"Awakes the bright new morning",
+	"Where we can move along",
+	"Blue skies up above, everyone's in love",
+	"Up a lazy river, how happy you could be",
+	"Up a lazy river with me",
+	"Up a lazy river with me",
+	""
+    ]
+}
+}

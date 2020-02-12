@@ -1,0 +1,60 @@
+{ "file": "While my guitar gently weeps.songlyrics", "lastModifiedDate": 1580196628000, "song": 
+{
+"title": "While my guitar gently weeps",
+"artist": "Beatles, The",
+"user": "Doug",
+"lastModifiedDate": 1580196628000,
+"copyright": "Sony/ATV Music Publishing LLC, The Bicycle Music Company",
+"key": "Eb",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"Am Am/G Am/Gb F",
+	"Am G D E7",
+	"Am/G Am/Gb",
+	"F",
+	"Am G C E7",
+	"C:",
+	"A C#m F#m C#m |",
+	"Bm Bm E7 E7 | x2"
+    ],
+"lyrics": 
+    [
+	"v: intro",
+	"v:",
+	"I look at you all see the love there that's sleeping",
+	"While my guitar gently weeps",
+	"I look at the floor and I see it needs sweeping",
+	"Still my guitar gently weeps",
+	"c:",
+	"I don't know why nobody told you",
+	"How to unfold your love",
+	"I don't know how someone controlled you",
+	"They bought and sold you",
+	"v:",
+	"I look at the world and I notice it's turning",
+	"While my guitar gently weeps",
+	"With every mistake we must surely be learning",
+	"Still my guitar gently weeps",
+	"c:",
+	"I don't know how you were diverted",
+	"You were perverted too",
+	"I don't know how you were inverted",
+	"No one alerted you",
+	"v:",
+	"I look at you all see the love there that's sleeping",
+	"While my guitar gently weeps",
+	"Look at you all",
+	"Still my guitar gently weeps",
+	"v:",
+	"Oh, oh",
+	"Oh, oh, oh, oh, oh, oh, oh",
+	"Oh, oh, oh, oh",
+	"Yeah, yeah, yeah, yeah, yeah",
+	"Yeah, yeah, yeah, yeah, oh, ooh",
+	""
+    ]
+}
+}

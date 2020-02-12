@@ -1,0 +1,63 @@
+{ "file": "Norwegian Wood (This Bird Has Flown) (3).songlyrics", "lastModifiedDate": 1547009882932, "song": 
+{
+"title": "Norwegian Wood (This Bird Has Flown)",
+"artist": "Beatles, The",
+"user": "Unknown",
+"lastModifiedDate": 1547009882932,
+"copyright": "Sony/ATV Music Publishing LLC",
+"key": "D",
+"defaultBpm": 184,
+"timeSignature": "6/8",
+"chords": 
+    [
+	"V:",
+	"D D DC D",
+	"D D DC D",
+	"V1:",
+	"D D DC D",
+	"B:",
+	"Dm Dm7 G G",
+	"Dm Dm7 Em A"
+    ],
+"lyrics": 
+    [
+	"v: (instrumental)",
+	"v:",
+	"I once had a girl,",
+	"Or should I say she once had me.",
+	"She showed me her room.",
+	"Isn't it good, Norwegian wood?",
+	"",
+	"b:",
+	"She asked me to stay,",
+	"And she told me to sit anywhere.",
+	"So I looked around",
+	"And I noticed there wasn't a chair.",
+	"",
+	"v:",
+	"I sat on a rug, biding my time,",
+	"Drinking her wine.",
+	"We talked until two and then she said,",
+	"\"It's time for bed.\"",
+	"",
+	"v1:",
+	"[instrumental x1]",
+	"",
+	"b:",
+	"She told me she worked",
+	"In the morning and started to laugh.",
+	"I told her I didn't",
+	"And crawled off to sleep in the bath.",
+	"",
+	"v:",
+	"And when I awoke, I was alone,",
+	"This bird had flown.",
+	"So I lit a fire.",
+	"Isn't it good, Norwegian wood?",
+	"",
+	"v1:",
+	"[instrumental x1]",
+	""
+    ]
+}
+}

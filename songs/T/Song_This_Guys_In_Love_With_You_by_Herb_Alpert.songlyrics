@@ -1,0 +1,60 @@
+{ "file": "This Guy's In Love With You.songlyrics", "lastModifiedDate": 1570067398254, "song": 
+{
+"title": "This Guy's In Love With You",
+"artist": "Herb Alpert",
+"user": "Unknown",
+"lastModifiedDate": 1570067398254,
+"copyright": "Warner Chappell Music, Inc, BMG Rights Management",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"Cmaj7 Fmaj7 Fmaj7 Bbmaj7",
+	"Cmaj7 Fmaj7 E7sus4E7 Am7",
+	"Gm7 C Fmaj7 Bb",
+	"Em7 Am7 D7sus4 Dm7",
+	"V1:",
+	"Cmaj7 Fmaj7 Fmaj7 Bbmaj7",
+	"Cmaj7 Fmaj7 E7sus4E7 Am7",
+	"Gm7 C Fmaj7 Bb",
+	"Em7 Am7 D7sus4 Dm7G",
+	"C:",
+	"Cmaj7 Fmaj7 Cmaj7 Fmaj7",
+	"Cmaj7 Am7 Am7D7 GGmaj7",
+	"GXXX G C C",
+	"O:",
+	"Cmaj7 Fmaj7 Fmaj7 Bbmaj7",
+	"Cmaj7 Fmaj7 E7sus4E7 Am7",
+	"Cmaj7"
+    ],
+"lyrics": 
+    [
+	"V: You see this guy, this guy's in love with you",
+	"Yes I'm in love who looks at you the way I do",
+	"When you smile I can tell it know each other very well",
+	"How can I show you I'm glad I got to know you 'cause",
+	"",
+	"V1: I've heard some talk they say you think I'm fine",
+	"Yes I'm in love and what I'd do to make you mine",
+	"Tell me now is it so don't let me be the last to know",
+	"My hands are shakin' don't let my heart keep breaking 'cause",
+	"",
+	"C: I need your love, I want your love",
+	"Say you're in love, in love with this guy",
+	"If not I'll just ... die",
+	"",
+	"V1: (instrumental +)",
+	"Tell me now is it so don't let me be the last to know",
+	"My hands are shakin' don't let my heart keep breaking 'cause",
+	"",
+	"C: I need your love, I want your love",
+	"Say you're in love, in love with this guy",
+	"If not I'll just ... die",
+	"",
+	"O: (instrumental to fade)",
+	""
+    ]
+}
+}

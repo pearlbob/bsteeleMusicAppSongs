@@ -1,0 +1,57 @@
+{ "file": "Let It Be Me (2).songlyrics", "lastModifiedDate": 1547095834038, "song": 
+{
+"title": "Let It Be Me",
+"artist": "Everly Brothers",
+"user": "Unknown",
+"lastModifiedDate": 1547095834038,
+"copyright": "Pierre Delance and Gilbert Becaud 1955",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"G D Em Bm",
+	"C G C G",
+	"V2:",
+	"G D Em Bm",
+	"C G C G",
+	"V3:",
+	"G D Em Bm",
+	"C G C G",
+	"Br:",
+	"C Bm C G",
+	"C G C B7D",
+	"O:",
+	"C G C G"
+    ],
+"lyrics": 
+    [
+	"V: I bless the day I found you  ",
+	"I want to stay around you ",
+	"And so I beg you, ",
+	"Let it be me ",
+	"",
+	"V2: Don’t take this heaven from one ",
+	"If you must cling to someone ",
+	"Now and forever, ",
+	"Let it be me ",
+	" ",
+	"BR: Each time we meet love, ",
+	"I find complete love ",
+	"Without your sweet love, ",
+	"What would life be? ",
+	" ",
+	"V3: So never leave me lonely ",
+	"Tell me you love me only ",
+	"And that you’ll always, ",
+	"Let it be me ",
+	"",
+	"v: (instrumental)",
+	"br: (instrumental)",
+	"",
+	"O:  And that you'll always, Let it be me.",
+	""
+    ]
+}
+}

@@ -1,0 +1,60 @@
+{ "file": "", "lastModifiedDate": 0, "song": 
+{
+"title": "Wild Rover",
+"artist": "Dubliners, The",
+"user": "Unknown",
+"lastModifiedDate": 0,
+"copyright": "Public Domain",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"G G G C C",
+	"G C D G G",
+	"G G G C C",
+	"G C D G",
+	"D D D D",
+	"G G C C",
+	"G G C C",
+	"D D G CG"
+    ],
+"lyrics": 
+    [
+	"I've been a wild rover for many's a year,",
+	"And I've spent all my money on whiskey and beer",
+	"And now I'm returning with gold in great store,",
+	"And I never will play the wild rover no more",
+	"And it's no, nay, never!",
+	"No nay never no more",
+	"And I'll play the wild rover,",
+	"No never no more",
+	"I went to an alehouse I used to frequent,",
+	"And I told the landlady my money was spent",
+	"I asked her for credit, she answered me, \"Nay\",",
+	"Saying, \"Custom like yours I can have any day\"",
+	"And it's no, nay, never!",
+	"No nay never no more",
+	"And I'll play the wild rover,",
+	"No never no more",
+	"I took from my pocket ten sovereigns bright,",
+	"And the landlady's eyes opened wide with delight",
+	"She said, \"I have whiskeys and wines of the best,",
+	"And the words that I told you were only in jest\"",
+	"And it's no, nay, never!",
+	"No nay never no more",
+	"And I'll play the wild rover,",
+	"No never no more",
+	"I'll go home to my parents, confess what I've done,",
+	"And I'll ask them to pardon their prodigal son",
+	"And when they have kissed me as oft-times before,",
+	"I never will play the wild rover no more",
+	"And it's no, nay, never!",
+	"No nay never no more",
+	"And I'll play the wild rover,",
+	"No never no more",
+	""
+    ]
+}
+}

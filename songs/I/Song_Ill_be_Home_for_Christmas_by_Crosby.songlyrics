@@ -1,0 +1,49 @@
+{ "file": "I'll be Home for Christmas (2).songlyrics", "lastModifiedDate": 1543791105156, "song": 
+{
+"title": "I'll be Home for Christmas",
+"artist": "Crosby",
+"user": "Unknown",
+"lastModifiedDate": 1543791105156,
+"copyright": "(P) 2014 Columbia Records, a Division of Sony Music Entertainment",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"C Em Dm G7",
+	"C GmA Dm Dm",
+	"Fm G7 CEm Am",
+	"D D7 Dm G7",
+	"C:",
+	"C Em Dm G7",
+	"C GmA Dm Dm",
+	"F Fm C A7",
+	"D7 DmG C C"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"I'll be home for Christmas;",
+	"You can count on me.",
+	"Please have snow and mis-tle-toe",
+	"And presents on the tree.",
+	"ch:",
+	"Christmas eve will find me",
+	"Where the love light gleams.",
+	"I'll be home for Christmas",
+	"If only in my dreams.",
+	"v:",
+	"I'll be home for Christmas;",
+	"You can count on me.",
+	"Please have snow and mis-tle-toe",
+	"And presents on the tree.",
+	"ch:",
+	"Christmas eve will find me",
+	"Where the love light gleams.",
+	"I'll be home for Christmas",
+	"If only in my dreams",
+	""
+    ]
+}
+}

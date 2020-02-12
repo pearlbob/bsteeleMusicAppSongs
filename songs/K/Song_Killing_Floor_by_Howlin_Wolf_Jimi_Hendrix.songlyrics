@@ -1,0 +1,60 @@
+{ "file": "", "lastModifiedDate": 0, "song": 
+{
+"title": "Killing Floor",
+"artist": "Howlin' Wolf, Jimi Hendrix",
+"user": "Unknown",
+"lastModifiedDate": 0,
+"copyright": "BMG Rights Management US, LLC",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"A7 A7 A7 A7",
+	"D7 D7 A7 A7",
+	"E7 D7 A7 E7"
+    ],
+"lyrics": 
+    [
+	"(Howlin Wolf)",
+	"v:",
+	"I should'a quit you, long time ago",
+	"I should'a quit you, baby, long time ago",
+	"I should'a quit you, and went on to Mexico",
+	"v:",
+	"If I ha'da followed, my first mind",
+	"If I ha'da followed, my first mind",
+	"I'd'a been gone, since my second time",
+	"v:",
+	"I should'a went on, when my friend come from Mexico at me",
+	"I should'a went on, when my friend come from Mexico at me",
+	"I was foolin' with ya baby, I let ya put me on the killin' floor",
+	"v:",
+	"Lord knows, I should'a been gone",
+	"Lord knows, I should'a been gone",
+	"And I wouldn't've been here, down on the killin' floor",
+	"v:",
+	"(Hendrix)",
+	"I should of quit you, A long time ago",
+	"I should of quit you baby, A long time ago",
+	"But you got me messin' round with you baby",
+	"You got me cryin' on a killin' floor, yeah",
+	"v:",
+	"If I don't fallow, yeah, My first mind",
+	"If I don't fallow pretty baby, My first mind",
+	"I would have been gone since my second time",
+	"Yeah",
+	"v:",
+	"Lord knows, right now, I should've been gone",
+	"Lord knows, I should've been gone",
+	"You got me messin' round with you baby",
+	"You got me cryin' on a killin' floor",
+	"v:",
+	"Yeah, thats all",
+	"Ooh, you got me cryin' baby",
+	"Ohh, you got me cryin'",
+	""
+    ]
+}
+}

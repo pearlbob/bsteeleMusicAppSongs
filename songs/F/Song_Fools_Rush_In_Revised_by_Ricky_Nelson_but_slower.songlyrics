@@ -1,0 +1,50 @@
+{ "file": "Fools Rush In Revised.songlyrics", "lastModifiedDate": 1560145885459, "song": 
+{
+"title": "Fools Rush In Revised",
+"artist": "Ricky Nelson (but slower)",
+"user": "Unknown",
+"lastModifiedDate": 1560145885459,
+"copyright": "Warner/Chappell Music, Inc",
+"key": "D",
+"defaultBpm": 100,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"Dm G7 C Am",
+	"F G7 Em Am",
+	"Dm G Am Am",
+	"E7Am D7 F G",
+	"V1:",
+	"Dm G7 C Am",
+	"F G7 Em A7",
+	"Dm Fm6 C Am",
+	"F G7 C C",
+	"O:",
+	"F G7 C C"
+    ],
+"lyrics": 
+    [
+	"V: Fools rush in where angels fear to tread",
+	"And so I come to you, my love, my heart above my head.",
+	"Though I see the danger there",
+	"If there`s a chance for me, then I don`t care",
+	"Mm-mm-mm-mm",
+	"",
+	"V1: Fools rush in where wise men never go",
+	"But wise men never fall in love, so how are they to know?",
+	"When we met, I felt my life begin",
+	"So open up your heart and let this fool rush in",
+	"",
+	"V: (instrumental)",
+	"",
+	"V1: Fools rush in where wise men never go",
+	"but wise men never fall in love, so how are they to know?",
+	"when we met, I felt my life begin",
+	"So open up your heart and let this fool rush in",
+	"",
+	"O: Just open up your heart and let this fool rush in",
+	""
+    ]
+}
+}

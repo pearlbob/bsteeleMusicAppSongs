@@ -1,0 +1,60 @@
+{ "file": "Suspirium.songlyrics", "lastModifiedDate": 1558993430343, "song": 
+{
+"title": "Suspirium",
+"artist": "Thom Yorke",
+"user": "Unknown",
+"lastModifiedDate": 1558993430343,
+"copyright": "Thom Yorke & Sam Petts-Davies",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "3/4",
+"chords": 
+    [
+	"V1:",
+	"C#m C#m F# F#",
+	"A A C#m C#m",
+	"B B F# F#",
+	"A A C# C#",
+	"C# C#",
+	"V2:",
+	"C#m G#m G#m A",
+	"G#m F#m C#m C#m C#m",
+	"Br:",
+	"G#m G#m A G#m",
+	"F#m C#m C#m C#m C#m",
+	"O:",
+	"G#m G#m A G#m",
+	"F#m C#m"
+    ],
+"lyrics": 
+    [
+	"V1: This is a waltz thinking about our bodies",
+	"What they mean for our salvation",
+	"",
+	"V1: With only the clothes that we stand up in",
+	"Just the ground on which we stand",
+	"",
+	"V1: Is the darkness ours to take?",
+	"Bathed in lightness, bathed in heat",
+	"",
+	"Br:",
+	"",
+	"V2: All is well, as long as we keep spinning",
+	"Here and now, dancing behind a wall",
+	"",
+	"V2: When the old songs and laughter we do",
+	"Are forgiven always and never been true",
+	"",
+	"Br:",
+	"",
+	"V1: When I arrive, will you come and find me?",
+	"Or in a crowd, be one of them?",
+	"",
+	"V1: Wore the wrong sign back beside her",
+	"Know tomorrow's at peace",
+	"",
+	"O:",
+	""
+    ]
+}
+}

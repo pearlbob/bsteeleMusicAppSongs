@@ -1,0 +1,56 @@
+{ "file": "", "lastModifiedDate": 0, "song": 
+{
+"title": "Five Foot Two, Eyes of Blue",
+"artist": "Dean Martin",
+"user": "Unknown",
+"lastModifiedDate": 0,
+"copyright": "Songwriters: Ray Henderson / Joseph Young / SAMUEL M LEWIS Five Foot Two Eyes of Blue lyrics © S.I.A.E. Direzione Generale",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"A:",
+	"C E7 A7 A7",
+	"D7 G7 C G",
+	"A1:",
+	"C E7 A7 A7",
+	"D7 G7 C C",
+	"B:",
+	"E7 E7 A7 A7",
+	"D7 D7 G7 G7"
+    ],
+"lyrics": 
+    [
+	"a:",
+	"Five foot two, eyes of blue",
+	"But oh what those five foot could do",
+	"Has anybody seen my gal",
+	"a1:",
+	"Turned up nose and turned down hose",
+	"Never had another beau",
+	"Has anybody seen my gal",
+	"b:",
+	"Now if you run into five foot two covered with fur",
+	"Diamond rings and all those things",
+	"Bet your life it isn't hers",
+	"a:",
+	"Could she love and could she woo",
+	"Could she could she could she coo",
+	"Has anybody seen my gal",
+	"a: (instrumental)",
+	"a1:",
+	"Five foot two, eyes of blue but oh what those five foot could do",
+	"Has anybody seen my gal",
+	"b:",
+	"Now if you run into five foot two covered with fur",
+	"Diamond rings and all those things",
+	"Bet your life that it wasn't her",
+	"a1:",
+	"Could she love and could she coo",
+	"Could she could she could she woo",
+	"Has anybody seen my gal",
+	""
+    ]
+}
+}

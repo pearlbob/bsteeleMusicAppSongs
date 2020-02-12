@@ -1,0 +1,61 @@
+{ "file": "You Don't Have To Say You Love Me.songlyrics", "lastModifiedDate": 1534385130214, "song": 
+{
+"title": "You Don't Have To Say You Love Me",
+"artist": "Dusty Springfield",
+"user": "Unknown",
+"lastModifiedDate": 1534385130214,
+"copyright": "Sony/ATV Music Publishing LLC",
+"key": "E",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Dm Dm",
+	"V:",
+	"Dm Gm C F",
+	"Bb Gm A A",
+	"V1:",
+	"Dm Gm C F",
+	"Bb Gm A Dm",
+	"C:",
+	"DBm GA DBm GA",
+	"DF#m Bm GEm A",
+	"O:",
+	"DBm GA DBm GA",
+	"D D B B",
+	"EC#m AB EC#m F#mB",
+	"ED ED E E"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"V: When I said I needed you",
+	"You said you would always stay",
+	"It wasn't me who changed but you and now you've gone away",
+	"",
+	"V1: Don't you see that now you've gone",
+	"And I'm left here on my own",
+	"That I have to follow you and beg you to come home",
+	"",
+	"C: You don't have to say you love me just be close at hand",
+	"You don't have to stay forever I will understand",
+	"Believe me, believe me I can't help but love you",
+	"But believe me I'll never tie you down",
+	"",
+	"V1: Left alone with just a memory",
+	"Life seems dead and so unreal",
+	"All that's left is loneliness there's nothing left to feel",
+	"",
+	"O: You don't have to say you love me just be close at hand",
+	"You don't have to stay forever",
+	"I will understand believe me, ",
+	"believe me",
+	"You don't have to say you love me just be close at hand",
+	"You don't have to stay forever",
+	"I will understand, believe me, believe me,",
+	"belie-e-eve me",
+	""
+    ]
+}
+}

@@ -1,0 +1,55 @@
+{ "file": "Call Me The Breeze.songlyrics", "lastModifiedDate": 1547002640991, "song": 
+{
+"title": "Call Me The Breeze",
+"artist": "J. J. Cale",
+"user": "Unknown",
+"lastModifiedDate": 1547002640991,
+"copyright": "℗© 2009 The All Blacks U.S.A. Inc. Issued Under License To Roadrunner Records From The All Blacks U.S.A. Inc. Roadrunner Records Is A Registered Trademark Of The All Blacks B.V.",
+"key": "F#",
+"defaultBpm": 180,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"F#7 F#7 F#7 F#7",
+	"B7 B7 F#7 F#7",
+	"C#7 B7 F#7 F#7"
+    ],
+"lyrics": 
+    [
+	"",
+	"V:",
+	"They call me the breeze",
+	"I keep blowin’ down the road",
+	"They call me the breeze",
+	"‘Cos I keep blowin’ down the road",
+	"I ain’t got me nobody",
+	"I don’t carry me no load",
+	"",
+	"V:",
+	"Ain’t no change in the weather",
+	"Ain’t no change in me",
+	"Ain’t no change in the weather",
+	"Ain’t no change in me ",
+	"I ain’t hidin’ from nobody",
+	"And nobody’s hiding from me",
+	"",
+	"V:",
+	"(Instrumental)",
+	"           ",
+	"V:",
+	"",
+	"I got that green light baby",
+	"I got to keep movin’ on",
+	"I got that green light baby",
+	"I got to keep movin’ on",
+	"I might go up to California",
+	"Might go to Georgia",
+	"I don’t know",
+	"",
+	"V:",
+	"(Instrumental)",
+	""
+    ]
+}
+}

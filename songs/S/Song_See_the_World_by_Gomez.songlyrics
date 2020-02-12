@@ -1,0 +1,56 @@
+{ "file": "", "lastModifiedDate": 0, "song": 
+{
+"title": "See the World",
+"artist": "Gomez",
+"user": "Unknown",
+"lastModifiedDate": 0,
+"copyright": "Kobalt Music Publishing Ltd.",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"D D G G x6",
+	"Em G Em GA",
+	"D G D G",
+	"D G E G"
+    ],
+"lyrics": 
+    [
+	"Day to day",
+	"Where do you want to be?",
+	"'Cos now you're trying to pick a fight",
+	"With everyone you need",
+	"You seem like a soldier",
+	"Who's lost his composure",
+	"You're wounded and playing a waiting game",
+	"In no-man's land no-one's to blame",
+	"See the world",
+	"Find an old fashioned girl",
+	"And when all's been said and done",
+	"It's the things that are given, not won",
+	"Are the things that you earned",
+	"Empty handed, surrounded by a senseless scene",
+	"With nothing of significance",
+	"Besides a shadow of a dream",
+	"You sound like an old joke",
+	"You're worn out, a bit broken",
+	"Asking me time and time again",
+	"And the answer's still the same",
+	"See the world",
+	"Find an old fashioned girl",
+	"And when all's been said and done",
+	"It's the things that are given, not won",
+	"Are the things that you earned",
+	"You've got a chance to put things right",
+	"So how's it going to be?",
+	"Lay down your arms now",
+	"And put us beyond doubt",
+	"So reach out it's not too far away",
+	"Don't mess around now, don't delay",
+	"See the world...[etc]",
+	""
+    ]
+}
+}

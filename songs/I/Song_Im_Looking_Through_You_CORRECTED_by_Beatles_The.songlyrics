@@ -1,0 +1,57 @@
+{ "file": "I'm Looking Through You - CORRECTED.songlyrics", "lastModifiedDate": 1580101314000, "song": 
+{
+"title": "I'm Looking Through You - CORRECTED",
+"artist": "Beatles, The",
+"user": "Doug",
+"lastModifiedDate": 1580101314000,
+"copyright": "Sony/ATV",
+"key": "C",
+"defaultBpm": 120,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"CF Dm7 Am G x2",
+	"Am GDm7 CF G",
+	"CF Dm7 F7 CF",
+	"CF CF CF",
+	"C:",
+	"F C G G",
+	"F C Gsus4 G",
+	"O:",
+	"CF CF CF CF x2"
+    ],
+"lyrics": 
+    [
+	"V: I'm looking through you, where did you go",
+	"I thought I knew you, what did I know",
+	"You don't look different, but you have changed",
+	"I'm looking through you, you're not the same",
+	"",
+	"V: Your lips are moving, I cannot hear",
+	"Your voice is soothing, but the words aren't clear",
+	"You don't sound different, I've learned the game",
+	"I'm looking through you, you're not the same",
+	"",
+	"C: Why, tell me why, did you not treat me right?",
+	"Love has a nasty habit of disappearing overnight",
+	"",
+	"V: You're thinking of me the same old way",
+	"You were above me, but not today",
+	"The only difference is you're down there",
+	"I'm looking through you and you're nowhere",
+	"",
+	"C: Why, tell me why, did you not treat me right?",
+	"Love has a nasty habit of disappearing overnight",
+	"",
+	"V: I'm looking through you, where did you go",
+	"I thought I knew you, what did I know",
+	"You don't look different, but you have changed",
+	"I'm looking through you, you're not the same",
+	"",
+	"O: Baby, you've changed, ah, I'm looking through you",
+	"You're not the same, I'm looking through you ...",
+	""
+    ]
+}
+}

@@ -1,0 +1,53 @@
+{ "file": "Songbird (1).songlyrics", "lastModifiedDate": 1534129426028, "song": 
+{
+"title": "Songbird",
+"artist": "Eva Cassidy",
+"user": "Unknown",
+"lastModifiedDate": 1534129426028,
+"copyright": "MacVee",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"C C G G",
+	"C C G G",
+	"PC:",
+	"Am Em C C",
+	"G G",
+	"C:",
+	"D C Em Em",
+	"C D G G"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"For you, there'll be no crying",
+	"For you, the sun will be shining",
+	"pc:",
+	"'Cause I feel that when I'm with you",
+	"It's alright",
+	"I know it's right",
+	"v:",
+	"To you, I would give the world",
+	"To you, I'd never be cold",
+	"pc:",
+	"'Cause I feel that when I'm with you",
+	"It's alright",
+	"I know it's right",
+	"ch:",
+	"And the songbirds keep singing like they know the score",
+	"And I love you, I love you, I love you",
+	"Like never before",
+	"v: (instrumental)",
+	"pc: (instrumental)",
+	"",
+	"ch:",
+	"And the songbirds keep singing like they know the score",
+	"And I love you, I love you, I love you",
+	"Like never before",
+	""
+    ]
+}
+}

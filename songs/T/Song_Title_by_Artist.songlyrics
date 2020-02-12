@@ -1,0 +1,32 @@
+{ "file": "Title (1).songlyrics", "lastModifiedDate": 1553034647914, "song": 
+{
+"title": "Title",
+"artist": "Artist",
+"user": "Unknown",
+"lastModifiedDate": 1553034647914,
+"copyright": "copyright",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"G G C D",
+	"V7:",
+	"G G Am D",
+	"C:",
+	"Em G CD G"
+    ],
+"lyrics": 
+    [
+	"v: (instrumental)",
+	"v: ",
+	"ch:",
+	"v:",
+	"ch:",
+	"v7:",
+	"ch:",
+	""
+    ]
+}
+}

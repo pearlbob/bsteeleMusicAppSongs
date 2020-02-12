@@ -1,0 +1,60 @@
+{ "file": "Mists of Time, The (4).songlyrics", "lastModifiedDate": 1566308402860, "song": 
+{
+"title": "Mists of Time, The",
+"artist": "John Mayall & the Bluesbreakers",
+"user": "Unknown",
+"lastModifiedDate": 1566308402860,
+"copyright": "John Mayall",
+"key": "Db",
+"defaultBpm": 65,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Bbm Eb Bbm Eb",
+	"Bbm GbAb Bbm Bbm",
+	"Bbm Eb Bbm Eb",
+	"Bbm GbAb Bbm Fm",
+	"V:",
+	"Bbm AbEb Bbm GbBbm",
+	"Db Ebm Bbm Bbm",
+	"Fm Eb Bbm.GbAb BbmFm"
+    ],
+"lyrics": 
+    [
+	"I: Intro",
+	"V:Somewhere in the world",
+	"Are friends I've missed from long ago",
+	"Could be drifting by the wayside",
+	"Or even dead - I just don't know",
+	"And now my memories are fading",
+	"Like melting footprints in the snow",
+	"",
+	"V:Sometimes a dream will haunt me",
+	"And I see a young girl's face",
+	"Was she once for real",
+	"And did she really share my space",
+	"Within the swirling mists of time",
+	"It's hard to keep track of year and place",
+	"",
+	"V:You know, I thought about my mother",
+	"When she was young and on the road",
+	"Hanging out with my musicians",
+	"Or camping out in forest groves",
+	"Like gray mists conceal horizons",
+	"I miss those times we'll share no more",
+	"",
+	"V: Instrumental Verse",
+	"",
+	"V:So far my life's a journey",
+	"And I wouldn't change for anything",
+	"All those years of bold adventures",
+	"The highs and lows that make me sing",
+	"Within the swirling mists of time",
+	"Such sweet memories still often ring",
+	"",
+	"I: Instrumentals Intro sequence",
+	""
+    ]
+}
+}

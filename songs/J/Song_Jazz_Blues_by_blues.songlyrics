@@ -1,0 +1,26 @@
+{ "file": "Jazz Blues (1).songlyrics", "lastModifiedDate": 1524073762000, "song": 
+{
+"title": "Jazz Blues",
+"artist": "blues",
+"user": "Unknown",
+"lastModifiedDate": 1524073762000,
+"copyright": "blues",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"Bb7 Eb7 Bb7 Fm7Bb7",
+	"Eb7 Edim7 Bb7 G7",
+	"Cm7 F7 Bb7G7 Cm7F7"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"V:",
+	"V:",
+	""
+    ]
+}
+}

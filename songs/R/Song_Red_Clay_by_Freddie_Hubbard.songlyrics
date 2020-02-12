@@ -1,0 +1,32 @@
+{ "file": "Red Clay.songlyrics", "lastModifiedDate": 1566754832195, "song": 
+{
+"title": "Red Clay",
+"artist": "Freddie Hubbard",
+"user": "Unknown",
+"lastModifiedDate": 1566754832195,
+"copyright": "Freddie Hubbard",
+"key": "Eb",
+"defaultBpm": 64,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Cm7 Ab7 Gaug7 Cm7",
+	"V:",
+	"Cm7 Bbm7 Db7sus4Eb7sus4 F7sus4G7sus4 x8",
+	"C:",
+	"Cm7 Bbm7Eb7 Abmaj7 Dm7b5Gaug7",
+	"O:",
+	"Cm7 Bbm7 Db7sus4Eb7sus4 F7sus4G7sus4"
+    ],
+"lyrics": 
+    [
+	"I: (Instrumental)",
+	"V: (Instrumental)",
+	"C: (Instrumental solos)",
+	"V: (Instrumental)",
+	"O: (Instrumental)",
+	""
+    ]
+}
+}

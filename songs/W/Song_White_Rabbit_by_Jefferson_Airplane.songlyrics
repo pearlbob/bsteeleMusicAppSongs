@@ -1,0 +1,59 @@
+{ "file": "White Rabbit (1).songlyrics", "lastModifiedDate": 1529821442046, "song": 
+{
+"title": "White Rabbit",
+"artist": "Jefferson Airplane",
+"user": "Unknown",
+"lastModifiedDate": 1529821442046,
+"copyright": "Universal Music Publishing Group",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"F# G F# G x4",
+	"B:",
+	"A CD A A x2",
+	"O:",
+	"E A E A"
+    ],
+"lyrics": 
+    [
+	"V:",
+	"One pill makes you larger",
+	"And one pill makes you small",
+	"And the ones that mother gives you",
+	"Don't do anything at all",
+	"Go ask Alice",
+	"When she's ten feet tall",
+	"",
+	"V:",
+	"And if you go chasing rabbits",
+	"And you know you're going to fall",
+	"Tell 'em a hookah-smoking caterpillar",
+	"Has given you the call",
+	"Call Alice",
+	"When she was just small",
+	"",
+	"B:",
+	"When the men on the chessboard",
+	"Get up and tell you where to go",
+	"And you've just had some kind of mushroom",
+	"And your mind is moving low",
+	"Go ask Alice",
+	"I think she'll know",
+	"",
+	"V:",
+	"When logic and proportion",
+	"Have fallen sloppy dead",
+	"And the White Knight is talking backwards",
+	"And the Red Queen's off with her head",
+	"Remember what the dormouse said",
+	"",
+	"O:",
+	"Feed your head",
+	"Feed your head",
+	""
+    ]
+}
+}

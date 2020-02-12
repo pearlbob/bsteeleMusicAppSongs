@@ -1,0 +1,45 @@
+{ "file": "Call Me.songlyrics", "lastModifiedDate": 1551661450446, "song": 
+{
+"title": "Call Me",
+"artist": "Blondie",
+"user": "Unknown",
+"lastModifiedDate": 1551661450446,
+"copyright": "1980",
+"key": "C",
+"defaultBpm": 135,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"Dm Dm Bb Bb",
+	"Dm Dm Bb Bb",
+	"G A G A",
+	"C:",
+	"Dm F G Bb",
+	"Dm F G Bb",
+	"Dm Dm",
+	"B:",
+	"Em Em",
+	"Em Em Bm Bm",
+	"Em Em Bm Bm",
+	"F F C C",
+	"Dm Bb G G",
+	"A A",
+	"T1:",
+	"Dm Dm",
+	"O:",
+	"Dm F G Bb",
+	"Dm F G Bb",
+	"Dm F G Bb Dm"
+    ],
+"lyrics": 
+    [
+	"V:",
+	"Ch:",
+	"T1:",
+	"B:",
+	"O:",
+	""
+    ]
+}
+}

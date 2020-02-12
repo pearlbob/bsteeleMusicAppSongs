@@ -1,0 +1,60 @@
+{ "file": "It's OK (2).songlyrics", "lastModifiedDate": 1560059092316, "song": 
+{
+"title": "It's OK",
+"artist": "Dead Moon",
+"user": "Unknown",
+"lastModifiedDate": 1560059092316,
+"copyright": "Dead Moon",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"C G Am F x2",
+	"V:",
+	"C G Am F x4",
+	"C:",
+	"C G Am F x4",
+	"B:",
+	"C G Am F x2",
+	"O:",
+	"C G Am F x4"
+    ],
+"lyrics": 
+    [
+	"I: ",
+	"C: It's ok (It's ok) we all seen better days",
+	"It's ok (it's ok) you don't have to run and hide away",
+	"It's ok (it's ok) OK OK OK",
+	"It's ok (it's ok) We love you anyways",
+	"V: for in those reckless moments in life, when doubt is creeping in your head",
+	"feelin' like you lost your youth and the dreams you had are cold and dead",
+	"I can't protect you like before. It's gonna take a different girl",
+	"I can't reach you like before. You're slipping beyond my world",
+	"C: but it's ok (it's ok!) you know we all seen better days",
+	"it's ok (it's ok) you don't have to run and hide away",
+	"it's ok (it's ok) it's ok ok ok",
+	"it's ok (it's ok) we still love you anyway",
+	"V: I wish that I could light the path that leads to a life of no mistakes",
+	"hold you from the damned-be-done that living out of safety seems to take",
+	"I still remember the child you were, as if only yesterday",
+	"when it was easy to break through. I only had to kiss the pain away",
+	"C: It's ok (it's ok) we love you anyway",
+	"It's ok (it's ok) we all seen better days",
+	"it's ok (it's ok) you don't have to run and hide away",
+	"it's ok (it's ok) we love you anyway",
+	"B: (no drums)",
+	"V: (still no drums) this is my chance, this is my life, and my opening hour ",
+	"this is my voice. this is my choice. There may be no tomorrow",
+	"this is my plea. this is my need. this is my time of standing free",
+	"this is my step. this is my depth, in a world demanding of me",
+	"C: (DRUMS) It's ok (It's OK!) you don't have to run and hide away",
+	"It's ok (it's ok) we love you anyway",
+	"It's ok (it's ok) we'll all see better days",
+	"It'll be ok, it'll be ok, it'll be ok ok ok",
+	"O:",
+	""
+    ]
+}
+}
